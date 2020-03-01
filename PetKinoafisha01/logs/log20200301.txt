@@ -1,0 +1,44 @@
+2020-03-01 17:36:16.835 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-01 17:36:16.906 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-01 17:36:16.906 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-01 17:36:16.908 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-01 17:36:16.908 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.1057ms.
+2020-03-01 17:36:16.917 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-01 17:36:20.950 +02:00 [INF] Executed ViewResult - view Index executed in 4041.5879ms.
+2020-03-01 17:36:20.951 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 4044.3423000000003ms
+2020-03-01 17:36:20.951 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-01 17:36:20.951 +02:00 [INF] Request finished in 4119.0475ms 200 text/html; charset=utf-8
+2020-03-01 17:36:21.019 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-03-01 17:36:21.259 +02:00 [INF] The file /dist/vendor.css was not modified
+2020-03-01 17:36:21.259 +02:00 [INF] Request finished in 239.628ms 304 text/css
+2020-03-01 17:36:21.353 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=aF0jBZzXAlZV6wDVlprovTtcB3D54ig5WLgKwod7078  
+2020-03-01 17:36:21.357 +02:00 [INF] The file /dist/vendor.js was not modified
+2020-03-01 17:36:21.358 +02:00 [INF] Request finished in 6.8961ms 304 application/javascript
+2020-03-01 17:36:21.513 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=LtQl3ZPjbjDE13Pua3r2rKl9fw0wGtLXVCuI5_3yi10  
+2020-03-01 17:36:21.682 +02:00 [INF] Request finished in 169.0996ms 200 application/javascript; charset=UTF-8
+2020-03-01 17:36:22.663 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-01 17:36:29.399 +02:00 [INF] Request finished in 6736.616ms 200 text/event-stream; charset=utf-8
+2020-03-01 17:38:25.231 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js.map  
+2020-03-01 17:38:25.231 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-01 17:38:25.240 +02:00 [INF] Request finished in 8.9396ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.244 +02:00 [INF] The file /dist/vendor.js.map was not modified
+2020-03-01 17:38:25.244 +02:00 [INF] Request finished in 13.4294ms 304 text/plain
+2020-03-01 17:38:25.707 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.20bf7bbc3b691c5b1aa4.hot-update.js.map  
+2020-03-01 17:38:25.711 +02:00 [INF] Request finished in 4.2183ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.712 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.2610fd5948b1c90f9e3b.hot-update.js.map  
+2020-03-01 17:38:25.716 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.a726ee40318ca505b56f.hot-update.js.map  
+2020-03-01 17:38:25.719 +02:00 [INF] Request finished in 7.1876ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.721 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.33d42d5331c6ee0997c9.hot-update.js.map  
+2020-03-01 17:38:25.723 +02:00 [INF] Request finished in 7.4145ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.724 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.15af6aeb95a87d73e1f6.hot-update.js.map  
+2020-03-01 17:38:25.725 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.bbfd20f1b33010a2f274.hot-update.js.map  
+2020-03-01 17:38:25.728 +02:00 [INF] Request finished in 7.2144ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.737 +02:00 [INF] Request finished in 11.8503ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.740 +02:00 [INF] Request finished in 15.7715ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:25.800 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css.map  
+2020-03-01 17:38:25.808 +02:00 [INF] The file /dist/vendor.css.map was not modified
+2020-03-01 17:38:25.808 +02:00 [INF] Request finished in 7.9416ms 304 text/plain
+2020-03-01 17:38:32.632 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-01 17:38:32.640 +02:00 [INF] Request finished in 8.0515ms 200 application/json; charset=UTF-8
+2020-03-01 17:38:32.976 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.33d42d5331c6ee0997c9.hot-update.js.map  
+2020-03-01 17:38:32.979 +02:00 [INF] Request finished in 3.3042ms 200 application/json; charset=UTF-8

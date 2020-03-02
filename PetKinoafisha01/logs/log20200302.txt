@@ -1,0 +1,662 @@
+2020-03-02 12:18:26.428 +02:00 [INF] User profile is available. Using 'C:\Users\smelnyk1\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-03-02 12:18:33.246 +02:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-03-02 12:18:33.823 +02:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-03-02 12:18:34.408 +02:00 [INF] Starting type checking service...
+2020-03-02 12:18:34.408 +02:00 [INF] Using 1 worker with 2048MB memory limit
+2020-03-02 12:18:34.568 +02:00 [INF] Starting type checking service...
+2020-03-02 12:18:34.568 +02:00 [INF] Using 1 worker with 2048MB memory limit
+2020-03-02 12:18:35.206 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:18:35.208 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:18:35.342 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: wait until bundle finished: /dist/__webpack_hmr
+2020-03-02 12:18:35.357 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:18:35.375 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:18:35.419 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:18:35.449 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 10.5801ms.
+2020-03-02 12:18:35.640 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:18:46.119 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js
+2020-03-02 12:18:46.183 +02:00 [INF] Type checking in progress...
+2020-03-02 12:18:48.354 +02:00 [INF] Type checking in progress...
+2020-03-02 12:18:48.395 +02:00 [INF] Executed ViewResult - view Index executed in 12896.944500000001ms.
+2020-03-02 12:18:48.408 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 13031.417300000001ms
+2020-03-02 12:18:48.411 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:18:48.427 +02:00 [INF] Request finished in 13240.2442ms 200 text/html; charset=utf-8
+2020-03-02 12:18:48.434 +02:00 [INF] webpack built ef68c3b25fb04ddd8d77 in 13983ms
+2020-03-02 12:18:48.463 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: ef68c3b25fb04ddd8d77
+Version: webpack 4.32.2
+Time: 13983ms
+Built at: 03/02/2020 12:18:48 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.35 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-03-02 12:18:48.463 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:18:48.485 +02:00 [INF] No type errors found
+2020-03-02 12:18:48.485 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:18:48.486 +02:00 [INF] Time: 13974ms
+2020-03-02 12:18:48.487 +02:00 [INF] No type errors found
+2020-03-02 12:18:48.487 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:18:48.487 +02:00 [INF] Time: 14112ms
+2020-03-02 12:18:52.919 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=YEi5L-dzqo_tnoy-zDd1f-SeT0tUuMqtkg4eUotU91s  
+2020-03-02 12:18:52.924 +02:00 [INF] Request finished in 17741.9074ms 200 text/event-stream; charset=utf-8
+2020-03-02 12:18:53.073 +02:00 [INF] Request finished in 152.9097ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:18:54.540 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:24:57.887 +02:00 [INF] User profile is available. Using 'C:\Users\smelnyk1\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-03-02 12:25:01.310 +02:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-03-02 12:25:01.698 +02:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-03-02 12:25:02.076 +02:00 [INF] Starting type checking service...
+2020-03-02 12:25:02.077 +02:00 [INF] Using 1 worker with 2048MB memory limit
+2020-03-02 12:25:02.160 +02:00 [INF] Starting type checking service...
+2020-03-02 12:25:02.160 +02:00 [INF] Using 1 worker with 2048MB memory limit
+2020-03-02 12:25:02.716 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:25:02.827 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:25:02.843 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:25:02.869 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:25:02.889 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.2830000000000004ms.
+2020-03-02 12:25:02.949 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:25:13.190 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js
+2020-03-02 12:25:13.266 +02:00 [INF] Type checking in progress...
+2020-03-02 12:25:14.256 +02:00 [INF] Executed ViewResult - view Index executed in 11352.728200000001ms.
+2020-03-02 12:25:14.284 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 11440.8538ms
+2020-03-02 12:25:14.286 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:25:14.333 +02:00 [INF] Request finished in 11627.0394ms 200 text/html; charset=utf-8
+2020-03-02 12:25:14.717 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=Kl9ZfV_mTDmsw7wh8gCHT2WYYgW4X50ViHqX4VGveJM  
+2020-03-02 12:25:15.103 +02:00 [INF] No type errors found
+2020-03-02 12:25:15.103 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:25:15.104 +02:00 [INF] Time: 11876ms
+2020-03-02 12:25:15.137 +02:00 [INF] webpack built ef68c3b25fb04ddd8d77 in 13048ms
+2020-03-02 12:25:15.188 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: ef68c3b25fb04ddd8d77
+Version: webpack 4.32.2
+Time: 13048ms
+Built at: 03/02/2020 12:25:15 PM
+             Asset      Size       Chunks                    Chunk Names
+    main-client.js  3.35 MiB  main-client  [emitted]  [big]  main-client
+main-client.js.map  29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-03-02 12:25:15.188 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:25:15.189 +02:00 [INF] No type errors found
+2020-03-02 12:25:15.189 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:25:15.189 +02:00 [INF] Time: 13043ms
+2020-03-02 12:25:16.959 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:25:17.118 +02:00 [INF] Request finished in 2402.1891ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:25:17.671 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:25:22.372 +02:00 [INF] Request finished in 4700.7394ms 200 text/event-stream; charset=utf-8
+2020-03-02 12:28:43.642 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:28:43.642 +02:00 [INF] webpack building...
+2020-03-02 12:28:48.290 +02:00 [INF] Type checking in progress...
+2020-03-02 12:28:48.342 +02:00 [INF] webpack built 8a9906e44b05c6a6b3ee in 4440ms
+2020-03-02 12:28:48.349 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 8a9906e44b05c6a6b3ee
+Version: webpack 4.32.2
+Time: 4440ms
+Built at: 03/02/2020 12:28:48 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              ef68c3b25fb04ddd8d77.hot-update.json   53 bytes               [emitted]         
+    main-client.ef68c3b25fb04ddd8d77.hot-update.js   1.11 MiB  main-client  [emitted]  [big]  main-client
+main-client.ef68c3b25fb04ddd8d77.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   4.44 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.ef68c3b25fb04ddd8d77.hot-update.js main-client.js.map main-client.ef68c3b25fb04ddd8d77.hot-update.js.map
+2020-03-02 12:28:48.349 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:28:48.691 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/ef68c3b25fb04ddd8d77.hot-update.json  
+2020-03-02 12:28:48.955 +02:00 [INF] Request finished in 264.2568ms 200 application/json; charset=UTF-8
+2020-03-02 12:28:48.974 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.ef68c3b25fb04ddd8d77.hot-update.js  
+2020-03-02 12:28:49.010 +02:00 [INF] Type checking in progress...
+2020-03-02 12:28:49.056 +02:00 [INF] Request finished in 82.5494ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:28:51.102 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 12:28:51.114 +02:00 [INF] Request finished in 11.6687ms 200 application/json; charset=UTF-8
+2020-03-02 12:28:51.768 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.ef68c3b25fb04ddd8d77.hot-update.js.map  
+2020-03-02 12:28:51.774 +02:00 [INF] Request finished in 5.9922ms 200 application/json; charset=UTF-8
+2020-03-02 12:28:58.170 +02:00 [INF] No type errors found
+2020-03-02 12:28:58.171 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:28:58.171 +02:00 [INF] Time: 14320ms
+2020-03-02 12:28:59.491 +02:00 [INF] No type errors found
+2020-03-02 12:28:59.491 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:28:59.491 +02:00 [INF] Time: 15648ms
+2020-03-02 12:32:12.433 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:32:12.433 +02:00 [INF] webpack building...
+2020-03-02 12:32:13.740 +02:00 [INF] No type errors found
+2020-03-02 12:32:13.740 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:32:13.740 +02:00 [INF] Time: 548ms
+2020-03-02 12:32:13.764 +02:00 [INF] webpack built 99f789acf07575078a32 in 1102ms
+2020-03-02 12:32:13.782 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 99f789acf07575078a32
+Version: webpack 4.32.2
+Time: 1102ms
+Built at: 03/02/2020 12:32:13 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              8a9906e44b05c6a6b3ee.hot-update.json   53 bytes               [emitted]         
+    main-client.8a9906e44b05c6a6b3ee.hot-update.js   48.4 KiB  main-client  [emitted]         main-client
+main-client.8a9906e44b05c6a6b3ee.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   4.44 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.8a9906e44b05c6a6b3ee.hot-update.js main-client.js.map main-client.8a9906e44b05c6a6b3ee.hot-update.js.map
+2020-03-02 12:32:13.782 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:32:13.783 +02:00 [INF] No type errors found
+2020-03-02 12:32:13.783 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:32:13.783 +02:00 [INF] Time: 545ms
+2020-03-02 12:32:13.819 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/8a9906e44b05c6a6b3ee.hot-update.json  
+2020-03-02 12:32:13.825 +02:00 [INF] Request finished in 5.8645ms 200 application/json; charset=UTF-8
+2020-03-02 12:32:13.837 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.8a9906e44b05c6a6b3ee.hot-update.js  
+2020-03-02 12:32:13.840 +02:00 [INF] Request finished in 3.4601ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:32:13.968 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.8a9906e44b05c6a6b3ee.hot-update.js.map  
+2020-03-02 12:32:13.970 +02:00 [INF] Request finished in 1.6711ms 200 application/json; charset=UTF-8
+2020-03-02 12:32:25.746 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:32:25.746 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:32:25.748 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:32:25.749 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:32:25.749 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0974ms.
+2020-03-02 12:32:25.758 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:32:26.623 +02:00 [INF] Executed ViewResult - view Index executed in 873.44080000000008ms.
+2020-03-02 12:32:26.624 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 875.2793ms
+2020-03-02 12:32:26.624 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:32:26.624 +02:00 [INF] Request finished in 878.1394ms 200 text/html; charset=utf-8
+2020-03-02 12:32:26.726 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-03-02 12:32:26.758 +02:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.css'
+2020-03-02 12:32:26.758 +02:00 [INF] Request finished in 32.6728ms 200 text/css
+2020-03-02 12:32:26.828 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=aF0jBZzXAlZV6wDVlprovTtcB3D54ig5WLgKwod7078  
+2020-03-02 12:32:26.831 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=sgVgK3oPcQqUCi90J2E_Pu1kBV4rpjBpZiGDqQ1GdDg  
+2020-03-02 12:32:27.842 +02:00 [INF] Request finished in 1010.8603ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:32:27.923 +02:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.js'
+2020-03-02 12:32:27.924 +02:00 [INF] Request finished in 1095.2289ms 200 application/javascript
+2020-03-02 12:32:29.002 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 12:32:29.007 +02:00 [INF] Request finished in 5.3929ms 200 application/json; charset=UTF-8
+2020-03-02 12:32:29.181 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:32:29.219 +02:00 [INF] Request finished in 432264.2727ms 200 text/event-stream; charset=utf-8
+2020-03-02 12:32:29.400 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 12:32:29.417 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 12:32:29.417 +02:00 [INF] Request finished in 17.1059ms 200 image/x-icon
+2020-03-02 12:34:50.032 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:34:50.032 +02:00 [INF] webpack building...
+2020-03-02 12:34:50.039 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\components\shared\TopMenu.tsx
+2020-03-02 12:34:51.427 +02:00 [INF] No type errors found
+2020-03-02 12:34:51.427 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:34:51.427 +02:00 [INF] Time: 774ms
+2020-03-02 12:34:51.459 +02:00 [INF] webpack built 1264f5946fd3de75b6d8 in 1191ms
+2020-03-02 12:34:51.478 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 1264f5946fd3de75b6d8
+Version: webpack 4.32.2
+Time: 1191ms
+Built at: 03/02/2020 12:34:51 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              99f789acf07575078a32.hot-update.json   53 bytes               [emitted]         
+    main-client.99f789acf07575078a32.hot-update.js    142 KiB  main-client  [emitted]         main-client
+main-client.99f789acf07575078a32.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   4.45 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.99f789acf07575078a32.hot-update.js main-client.js.map main-client.99f789acf07575078a32.hot-update.js.map
+2020-03-02 12:34:51.480 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:34:51.489 +02:00 [INF] No type errors found
+2020-03-02 12:34:51.489 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:34:51.489 +02:00 [INF] Time: 772ms
+2020-03-02 12:34:51.542 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/99f789acf07575078a32.hot-update.json  
+2020-03-02 12:34:51.547 +02:00 [INF] Request finished in 5.0006ms 200 application/json; charset=UTF-8
+2020-03-02 12:34:51.564 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.99f789acf07575078a32.hot-update.js  
+2020-03-02 12:34:51.569 +02:00 [INF] Request finished in 7.484ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:34:51.708 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.99f789acf07575078a32.hot-update.js.map  
+2020-03-02 12:34:51.710 +02:00 [INF] Request finished in 1.8086ms 200 application/json; charset=UTF-8
+2020-03-02 12:35:03.550 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:35:03.551 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:35:03.551 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:35:03.551 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:35:03.551 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0524ms.
+2020-03-02 12:35:03.551 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:35:04.311 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 759.90820000000008ms
+2020-03-02 12:35:04.311 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:35:04.354 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://fb.me/react-invalid-hook-call for tips about how to debug and fix this problem.
+Invariant Violation: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://fb.me/react-invalid-hook-call for tips about how to debug and fix this problem.
+    at invariant (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:58:15)
+    at resolveCurrentlyRenderingComponent (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:953:45)
+    at useReducer (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:1109:33)
+    at Object.useState (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:1098:10)
+    at useState (webpack-internal:///./node_modules/react/cjs/react.development.js:1462:21)
+    at TopMenu.render (webpack-internal:///./ClientApp/components/shared/TopMenu.tsx:17:3715)
+    at processChild (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:2959:18)
+    at resolve (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:2812:5)
+    at ReactDOMServerRenderer.render (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:3202:22)
+    at ReactDOMServerRenderer.read (webpack-internal:///./node_modules/@hot-loader/react-dom/cjs/react-dom-server.node.development.js:3161:29)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-02 12:35:04.505 +02:00 [INF] Request finished in 954.2216ms 500 text/html; charset=utf-8
+2020-03-02 12:35:05.047 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 12:35:05.050 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 12:35:05.050 +02:00 [INF] Request finished in 4.0469ms 200 image/x-icon
+2020-03-02 12:35:12.522 +02:00 [INF] Request finished in 163341.8158ms 200 text/event-stream; charset=utf-8
+2020-03-02 12:36:40.856 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\components\shared\TopMenu.tsx
+2020-03-02 12:36:40.878 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:36:40.878 +02:00 [INF] webpack building...
+2020-03-02 12:36:42.111 +02:00 [INF] No type errors found
+2020-03-02 12:36:42.111 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:36:42.111 +02:00 [INF] Time: 667ms
+2020-03-02 12:36:42.128 +02:00 [INF] webpack built 86b03d5f94f7175c2ce4 in 1028ms
+2020-03-02 12:36:42.134 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 86b03d5f94f7175c2ce4
+Version: webpack 4.32.2
+Time: 1028ms
+Built at: 03/02/2020 12:36:42 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              1264f5946fd3de75b6d8.hot-update.json   53 bytes               [emitted]         
+    main-client.1264f5946fd3de75b6d8.hot-update.js    133 KiB  main-client  [emitted]         main-client
+main-client.1264f5946fd3de75b6d8.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   4.44 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.1264f5946fd3de75b6d8.hot-update.js main-client.js.map main-client.1264f5946fd3de75b6d8.hot-update.js.map
+2020-03-02 12:36:42.134 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:36:42.174 +02:00 [INF] No type errors found
+2020-03-02 12:36:42.174 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:36:42.174 +02:00 [INF] Time: 665ms
+2020-03-02 12:36:47.199 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:36:47.212 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:36:47.212 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:36:47.212 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:36:47.212 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0475ms.
+2020-03-02 12:36:47.212 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:36:50.071 +02:00 [INF] Executed ViewResult - view Index executed in 2858.3123ms.
+2020-03-02 12:36:50.071 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 2858.9598ms
+2020-03-02 12:36:50.071 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:36:50.071 +02:00 [INF] Request finished in 2872.7404ms 200 text/html; charset=utf-8
+2020-03-02 12:36:50.351 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=mewNxmQpeK-jElXeUOKR3i9e73EKgR4HN9ndNhlJrQo  
+2020-03-02 12:36:51.174 +02:00 [INF] Request finished in 823.841ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:36:52.207 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 12:36:52.224 +02:00 [INF] Request finished in 21.2313ms 200 application/json; charset=UTF-8
+2020-03-02 12:36:52.444 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:36:52.523 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 12:36:52.525 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 12:36:52.525 +02:00 [INF] Request finished in 2.2137ms 200 image/x-icon
+2020-03-02 12:37:06.504 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:37:06.504 +02:00 [INF] webpack building...
+2020-03-02 12:37:06.511 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\components\shared\TopMenu.tsx
+2020-03-02 12:37:07.622 +02:00 [INF] Type checking in progress...
+2020-03-02 12:37:07.641 +02:00 [INF] webpack built 56b33d3d355cd997546f in 917ms
+2020-03-02 12:37:07.651 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 56b33d3d355cd997546f
+Version: webpack 4.32.2
+Time: 917ms
+Built at: 03/02/2020 12:37:07 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              86b03d5f94f7175c2ce4.hot-update.json   53 bytes               [emitted]         
+    main-client.86b03d5f94f7175c2ce4.hot-update.js   28.8 KiB  main-client  [emitted]         main-client
+main-client.86b03d5f94f7175c2ce4.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.86b03d5f94f7175c2ce4.hot-update.js main-client.js.map main-client.86b03d5f94f7175c2ce4.hot-update.js.map
+2020-03-02 12:37:07.651 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:37:07.652 +02:00 [INF] No type errors found
+2020-03-02 12:37:07.653 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:37:07.653 +02:00 [INF] Time: 946ms
+2020-03-02 12:37:07.684 +02:00 [INF] No type errors found
+2020-03-02 12:37:07.685 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:37:07.685 +02:00 [INF] Time: 945ms
+2020-03-02 12:37:07.710 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/86b03d5f94f7175c2ce4.hot-update.json  
+2020-03-02 12:37:07.717 +02:00 [INF] Request finished in 6.958ms 200 application/json; charset=UTF-8
+2020-03-02 12:37:07.730 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.86b03d5f94f7175c2ce4.hot-update.js  
+2020-03-02 12:37:07.733 +02:00 [INF] Request finished in 2.2798ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:37:07.773 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.86b03d5f94f7175c2ce4.hot-update.js.map  
+2020-03-02 12:37:07.786 +02:00 [INF] Request finished in 13.46ms 200 application/json; charset=UTF-8
+2020-03-02 12:39:55.358 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:39:55.358 +02:00 [INF] webpack building...
+2020-03-02 12:39:55.603 +02:00 [INF] No type errors found
+2020-03-02 12:39:55.604 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:39:55.604 +02:00 [INF] Time: 9ms
+2020-03-02 12:39:55.785 +02:00 [INF] No type errors found
+2020-03-02 12:39:55.785 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:39:55.785 +02:00 [INF] Time: 64ms
+2020-03-02 12:39:55.803 +02:00 [INF] webpack built 9b4cc5c7328fccfebe8f in 225ms
+2020-03-02 12:39:55.809 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 9b4cc5c7328fccfebe8f
+Version: webpack 4.32.2
+Time: 225ms
+Built at: 03/02/2020 12:39:55 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              56b33d3d355cd997546f.hot-update.json   53 bytes               [emitted]         
+    main-client.56b33d3d355cd997546f.hot-update.js   6.33 KiB  main-client  [emitted]         main-client
+main-client.56b33d3d355cd997546f.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.56b33d3d355cd997546f.hot-update.js main-client.js.map main-client.56b33d3d355cd997546f.hot-update.js.map
+2020-03-02 12:39:55.809 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:39:55.852 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/56b33d3d355cd997546f.hot-update.json  
+2020-03-02 12:39:55.856 +02:00 [INF] Request finished in 3.4072ms 200 application/json; charset=UTF-8
+2020-03-02 12:39:55.868 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.56b33d3d355cd997546f.hot-update.js  
+2020-03-02 12:39:55.870 +02:00 [INF] Request finished in 2.347ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:39:55.891 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.56b33d3d355cd997546f.hot-update.js.map  
+2020-03-02 12:39:55.894 +02:00 [INF] Request finished in 2.2711ms 200 application/json; charset=UTF-8
+2020-03-02 12:40:00.970 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:40:00.971 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:40:00.971 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:40:00.971 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:40:00.971 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0483ms.
+2020-03-02 12:40:00.972 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:40:01.763 +02:00 [INF] Executed ViewResult - view Index executed in 791.3641ms.
+2020-03-02 12:40:01.763 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 792.22800000000007ms
+2020-03-02 12:40:01.763 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:40:01.763 +02:00 [INF] Request finished in 793.2536ms 200 text/html; charset=utf-8
+2020-03-02 12:40:01.961 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=NoIC2rfw2HIWasKRNWFQRiSdjsNv_d2xEpy7xhbmV7Q  
+2020-03-02 12:40:02.210 +02:00 [INF] Request finished in 248.7186ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:40:02.576 +02:00 [INF] Request finished in 190133.2974ms 200 text/event-stream; charset=utf-8
+2020-03-02 12:40:03.329 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 12:40:03.336 +02:00 [INF] Request finished in 7.5618ms 200 application/json; charset=UTF-8
+2020-03-02 12:40:03.594 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:40:03.658 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 12:40:03.659 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 12:40:03.659 +02:00 [INF] Request finished in 1.8826ms 200 image/x-icon
+2020-03-02 12:40:08.191 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-03-02 12:40:08.200 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:40:08.224 +02:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)
+2020-03-02 12:40:08.252 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) with arguments ([""]) - Validation state: "Valid"
+2020-03-02 12:40:08.254 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.93670000000000009ms.
+2020-03-02 12:40:08.258 +02:00 [INF] Executing JsonResult, writing value of type 'PetKinoafisha01.Infrastructure.Result`1[[System.Collections.Generic.List`1[[PetKinoafisha01.Models.PersonModel, PetKinoafisha01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-03-02 12:40:08.264 +02:00 [INF] Executed action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) in 39.502900000000004ms
+2020-03-02 12:40:08.264 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:40:08.264 +02:00 [INF] Request finished in 73.2903ms 200 application/json; charset=utf-8
+2020-03-02 12:40:11.102 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-03-02 12:40:11.107 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:40:11.107 +02:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)
+2020-03-02 12:40:11.108 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) with arguments ([""]) - Validation state: "Valid"
+2020-03-02 12:40:11.108 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0086ms.
+2020-03-02 12:40:11.108 +02:00 [INF] Executing JsonResult, writing value of type 'PetKinoafisha01.Infrastructure.Result`1[[System.Collections.Generic.List`1[[PetKinoafisha01.Models.PersonModel, PetKinoafisha01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-03-02 12:40:11.108 +02:00 [INF] Executed action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) in 0.8993ms
+2020-03-02 12:40:11.108 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:40:11.108 +02:00 [INF] Request finished in 6.7654ms 200 application/json; charset=utf-8
+2020-03-02 12:40:13.873 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-03-02 12:40:13.874 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:40:13.874 +02:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)
+2020-03-02 12:40:13.874 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) with arguments ([""]) - Validation state: "Valid"
+2020-03-02 12:40:13.874 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.0037ms.
+2020-03-02 12:40:13.874 +02:00 [INF] Executing JsonResult, writing value of type 'PetKinoafisha01.Infrastructure.Result`1[[System.Collections.Generic.List`1[[PetKinoafisha01.Models.PersonModel, PetKinoafisha01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-03-02 12:40:13.874 +02:00 [INF] Executed action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) in 0.4036ms
+2020-03-02 12:40:13.874 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:40:13.875 +02:00 [INF] Request finished in 1.1214ms 200 application/json; charset=utf-8
+2020-03-02 12:41:47.928 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/api/Person/Search?term=  
+2020-03-02 12:41:47.929 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:41:47.929 +02:00 [INF] Route matched with {action = "Search", controller = "Person"}. Executing action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)
+2020-03-02 12:41:47.931 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) with arguments ([""]) - Validation state: "Valid"
+2020-03-02 12:41:47.931 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.JsonResult in 0.010100000000000001ms.
+2020-03-02 12:41:47.931 +02:00 [INF] Executing JsonResult, writing value of type 'PetKinoafisha01.Infrastructure.Result`1[[System.Collections.Generic.List`1[[PetKinoafisha01.Models.PersonModel, PetKinoafisha01, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2020-03-02 12:41:47.931 +02:00 [INF] Executed action PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01) in 1.9196000000000002ms
+2020-03-02 12:41:47.931 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.PersonController.Search (PetKinoafisha01)'
+2020-03-02 12:41:47.931 +02:00 [INF] Request finished in 3.5583ms 200 application/json; charset=utf-8
+2020-03-02 12:42:58.992 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 12:42:58.992 +02:00 [INF] webpack building...
+2020-03-02 12:42:59.228 +02:00 [INF] No type errors found
+2020-03-02 12:42:59.228 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:42:59.228 +02:00 [INF] Time: 17ms
+2020-03-02 12:42:59.385 +02:00 [INF] No type errors found
+2020-03-02 12:42:59.386 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 12:42:59.386 +02:00 [INF] Time: 12ms
+2020-03-02 12:42:59.393 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\main-client.js
+2020-03-02 12:42:59.421 +02:00 [INF] webpack built 4307f39be682c5094383 in 188ms
+2020-03-02 12:42:59.465 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 4307f39be682c5094383
+Version: webpack 4.32.2
+Time: 188ms
+Built at: 03/02/2020 12:42:59 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              9b4cc5c7328fccfebe8f.hot-update.json   53 bytes               [emitted]         
+    main-client.9b4cc5c7328fccfebe8f.hot-update.js   6.49 KiB  main-client  [emitted]         main-client
+main-client.9b4cc5c7328fccfebe8f.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.9b4cc5c7328fccfebe8f.hot-update.js main-client.js.map main-client.9b4cc5c7328fccfebe8f.hot-update.js.map
+2020-03-02 12:42:59.465 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 12:42:59.496 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/9b4cc5c7328fccfebe8f.hot-update.json  
+2020-03-02 12:42:59.506 +02:00 [INF] Request finished in 9.2726ms 200 application/json; charset=UTF-8
+2020-03-02 12:42:59.519 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.9b4cc5c7328fccfebe8f.hot-update.js  
+2020-03-02 12:42:59.520 +02:00 [INF] Request finished in 1.5314ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:42:59.533 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.9b4cc5c7328fccfebe8f.hot-update.js.map  
+2020-03-02 12:42:59.535 +02:00 [INF] Request finished in 2.054ms 200 application/json; charset=UTF-8
+2020-03-02 12:47:11.869 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 12:47:11.870 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:47:11.870 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 12:47:11.870 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 12:47:11.870 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.054700000000000006ms.
+2020-03-02 12:47:11.871 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 12:47:12.674 +02:00 [INF] Executed ViewResult - view Index executed in 803.13560000000007ms.
+2020-03-02 12:47:12.674 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 803.8198ms
+2020-03-02 12:47:12.674 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 12:47:12.677 +02:00 [INF] Request finished in 810.9855ms 200 text/html; charset=utf-8
+2020-03-02 12:47:12.887 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=a08unLns_V_0HIuLpwOJsSo_R3CnRbmZFwgPT_eEluM  
+2020-03-02 12:47:13.012 +02:00 [INF] Request finished in 124.5794ms 200 application/javascript; charset=UTF-8
+2020-03-02 12:47:14.356 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 12:47:14.386 +02:00 [INF] Request finished in 30.6912ms 200 application/json; charset=UTF-8
+2020-03-02 12:47:14.485 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 12:47:14.504 +02:00 [INF] Request finished in 430912.8233ms 200 text/event-stream; charset=utf-8
+2020-03-02 12:47:14.659 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 12:47:14.661 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 12:47:14.661 +02:00 [INF] Request finished in 2.1899ms 200 image/x-icon
+2020-03-02 13:47:03.072 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\components\shared\TopMenu.tsx
+2020-03-02 13:47:03.092 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 13:47:03.092 +02:00 [INF] webpack building...
+2020-03-02 13:47:04.450 +02:00 [INF] No type errors found
+2020-03-02 13:47:04.450 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 13:47:04.450 +02:00 [INF] Time: 848ms
+2020-03-02 13:47:04.466 +02:00 [INF] webpack built d02e82d96faf44f1130e in 1154ms
+2020-03-02 13:47:04.473 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: d02e82d96faf44f1130e
+Version: webpack 4.32.2
+Time: 1154ms
+Built at: 03/02/2020 1:47:04 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              4307f39be682c5094383.hot-update.json   53 bytes               [emitted]         
+    main-client.4307f39be682c5094383.hot-update.js   19.5 KiB  main-client  [emitted]         main-client
+main-client.4307f39be682c5094383.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.4307f39be682c5094383.hot-update.js main-client.js.map main-client.4307f39be682c5094383.hot-update.js.map
+2020-03-02 13:47:04.473 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 13:47:04.492 +02:00 [INF] No type errors found
+2020-03-02 13:47:04.493 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 13:47:04.493 +02:00 [INF] Time: 851ms
+2020-03-02 13:47:04.534 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/4307f39be682c5094383.hot-update.json  
+2020-03-02 13:47:04.539 +02:00 [INF] Request finished in 5.8955ms 200 application/json; charset=UTF-8
+2020-03-02 13:47:04.572 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.4307f39be682c5094383.hot-update.js  
+2020-03-02 13:47:04.579 +02:00 [INF] Request finished in 7.7796ms 200 application/javascript; charset=UTF-8
+2020-03-02 13:47:04.709 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.4307f39be682c5094383.hot-update.js.map  
+2020-03-02 13:47:04.712 +02:00 [INF] Request finished in 5.2785ms 200 application/json; charset=UTF-8
+2020-03-02 13:47:30.131 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 13:47:30.131 +02:00 [INF] webpack building...
+2020-03-02 13:47:30.381 +02:00 [INF] No type errors found
+2020-03-02 13:47:30.381 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 13:47:30.381 +02:00 [INF] Time: 13ms
+2020-03-02 13:47:30.409 +02:00 [INF] No type errors found
+2020-03-02 13:47:30.409 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 13:47:30.409 +02:00 [INF] Time: 14ms
+2020-03-02 13:47:30.426 +02:00 [INF] webpack built d02e82d96faf44f1130e in 75ms
+2020-03-02 13:47:30.434 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: d02e82d96faf44f1130e
+Version: webpack 4.32.2
+Time: 75ms
+Built at: 03/02/2020 1:47:30 PM
+             Asset      Size       Chunks         Chunk Names
+    main-client.js  3.35 MiB  main-client  [big]  main-client
+main-client.js.map  29.9 KiB  main-client         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-03-02 13:47:30.434 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 13:47:34.380 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 13:47:34.381 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 13:47:34.381 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 13:47:34.381 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 13:47:34.381 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0845ms.
+2020-03-02 13:47:34.385 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 13:47:35.240 +02:00 [INF] Executed ViewResult - view Index executed in 858.7884ms.
+2020-03-02 13:47:35.240 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 859.462ms
+2020-03-02 13:47:35.241 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 13:47:35.241 +02:00 [INF] Request finished in 864.1697ms 200 text/html; charset=utf-8
+2020-03-02 13:47:35.297 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-03-02 13:47:36.245 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=IdPqGaifJW4QjSApVm5cTTHD7RwbvfDfpRw2_omojE8  
+2020-03-02 13:47:36.247 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=aF0jBZzXAlZV6wDVlprovTtcB3D54ig5WLgKwod7078  
+2020-03-02 13:47:36.258 +02:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.css'
+2020-03-02 13:47:36.258 +02:00 [INF] Request finished in 962.718ms 200 text/css
+2020-03-02 13:47:36.731 +02:00 [INF] Request finished in 483.6786ms 200 application/javascript; charset=UTF-8
+2020-03-02 13:47:37.079 +02:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.js'
+2020-03-02 13:47:37.079 +02:00 [INF] Request finished in 832.0742ms 200 application/javascript
+2020-03-02 13:47:38.227 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 13:47:38.231 +02:00 [INF] Request finished in 6.4422ms 200 application/json; charset=UTF-8
+2020-03-02 13:47:38.349 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 13:47:38.410 +02:00 [INF] Request finished in 3623950.6633ms 200 text/event-stream; charset=utf-8
+2020-03-02 13:47:38.533 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 13:47:38.535 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 13:47:38.536 +02:00 [INF] Request finished in 2.6604ms 200 image/x-icon
+2020-03-02 13:48:03.971 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\components\shared\TopMenu.tsx
+2020-03-02 13:48:03.995 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 13:48:03.995 +02:00 [INF] webpack building...
+2020-03-02 13:48:04.969 +02:00 [INF] Type checking in progress...
+2020-03-02 13:48:05.016 +02:00 [INF] webpack built 9e5b24d158fd6a9c1207 in 770ms
+2020-03-02 13:48:05.020 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 9e5b24d158fd6a9c1207
+Version: webpack 4.32.2
+Time: 770ms
+Built at: 03/02/2020 1:48:04 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              d02e82d96faf44f1130e.hot-update.json   53 bytes               [emitted]         
+    main-client.d02e82d96faf44f1130e.hot-update.js   19.6 KiB  main-client  [emitted]         main-client
+main-client.d02e82d96faf44f1130e.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.d02e82d96faf44f1130e.hot-update.js main-client.js.map main-client.d02e82d96faf44f1130e.hot-update.js.map
+2020-03-02 13:48:05.020 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 13:48:05.021 +02:00 [INF] No type errors found
+2020-03-02 13:48:05.022 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 13:48:05.022 +02:00 [INF] Time: 822ms
+2020-03-02 13:48:05.050 +02:00 [INF] No type errors found
+2020-03-02 13:48:05.050 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 13:48:05.050 +02:00 [INF] Time: 825ms
+2020-03-02 13:48:05.097 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/d02e82d96faf44f1130e.hot-update.json  
+2020-03-02 13:48:05.101 +02:00 [INF] Request finished in 4.3399ms 200 application/json; charset=UTF-8
+2020-03-02 13:48:05.116 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.d02e82d96faf44f1130e.hot-update.js  
+2020-03-02 13:48:05.118 +02:00 [INF] Request finished in 2.4395ms 200 application/javascript; charset=UTF-8
+2020-03-02 13:48:05.249 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.d02e82d96faf44f1130e.hot-update.js.map  
+2020-03-02 13:48:05.253 +02:00 [INF] Request finished in 5.038ms 200 application/json; charset=UTF-8
+2020-03-02 14:33:20.537 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 14:33:20.538 +02:00 [INF] webpack building...
+2020-03-02 14:33:20.779 +02:00 [INF] No type errors found
+2020-03-02 14:33:20.779 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:33:20.779 +02:00 [INF] Time: 14ms
+2020-03-02 14:33:20.993 +02:00 [INF] No type errors found
+2020-03-02 14:33:20.994 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:33:20.994 +02:00 [INF] Time: 15ms
+2020-03-02 14:33:21.032 +02:00 [INF] webpack built 0bb2342ea08dcfdc4b40 in 253ms
+2020-03-02 14:33:21.037 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 0bb2342ea08dcfdc4b40
+Version: webpack 4.32.2
+Time: 253ms
+Built at: 03/02/2020 2:33:20 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              9e5b24d158fd6a9c1207.hot-update.json   53 bytes               [emitted]         
+    main-client.9e5b24d158fd6a9c1207.hot-update.js   8.51 KiB  main-client  [emitted]         main-client
+main-client.9e5b24d158fd6a9c1207.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.9e5b24d158fd6a9c1207.hot-update.js main-client.js.map main-client.9e5b24d158fd6a9c1207.hot-update.js.map
+2020-03-02 14:33:21.037 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 14:33:21.088 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/9e5b24d158fd6a9c1207.hot-update.json  
+2020-03-02 14:33:21.093 +02:00 [INF] Request finished in 5.2506ms 200 application/json; charset=UTF-8
+2020-03-02 14:33:21.116 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.9e5b24d158fd6a9c1207.hot-update.js  
+2020-03-02 14:33:21.117 +02:00 [INF] Request finished in 1.5881ms 200 application/javascript; charset=UTF-8
+2020-03-02 14:33:21.135 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.9e5b24d158fd6a9c1207.hot-update.js.map  
+2020-03-02 14:33:21.136 +02:00 [INF] Request finished in 1.522ms 200 application/json; charset=UTF-8
+2020-03-02 14:34:31.957 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 14:34:31.957 +02:00 [INF] webpack building...
+2020-03-02 14:34:32.196 +02:00 [INF] No type errors found
+2020-03-02 14:34:32.197 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:34:32.197 +02:00 [INF] Time: 16ms
+2020-03-02 14:34:32.367 +02:00 [INF] No type errors found
+2020-03-02 14:34:32.367 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:34:32.367 +02:00 [INF] Time: 13ms
+2020-03-02 14:34:32.382 +02:00 [INF] webpack built 90cbce207e187e3799ed in 206ms
+2020-03-02 14:34:32.386 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 90cbce207e187e3799ed
+Version: webpack 4.32.2
+Time: 206ms
+Built at: 03/02/2020 2:34:32 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              0bb2342ea08dcfdc4b40.hot-update.json   53 bytes               [emitted]         
+    main-client.0bb2342ea08dcfdc4b40.hot-update.js   7.13 KiB  main-client  [emitted]         main-client
+main-client.0bb2342ea08dcfdc4b40.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.0bb2342ea08dcfdc4b40.hot-update.js main-client.js.map main-client.0bb2342ea08dcfdc4b40.hot-update.js.map
+2020-03-02 14:34:32.386 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 14:34:32.400 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/0bb2342ea08dcfdc4b40.hot-update.json  
+2020-03-02 14:34:32.402 +02:00 [INF] Request finished in 2.7623ms 200 application/json; charset=UTF-8
+2020-03-02 14:34:32.414 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.0bb2342ea08dcfdc4b40.hot-update.js  
+2020-03-02 14:34:32.415 +02:00 [INF] Request finished in 1.5775ms 200 application/javascript; charset=UTF-8
+2020-03-02 14:34:32.436 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.0bb2342ea08dcfdc4b40.hot-update.js.map  
+2020-03-02 14:34:32.438 +02:00 [INF] Request finished in 1.2475ms 200 application/json; charset=UTF-8
+2020-03-02 14:35:34.705 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 14:35:34.705 +02:00 [INF] webpack building...
+2020-03-02 14:35:34.974 +02:00 [INF] No type errors found
+2020-03-02 14:35:34.974 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:35:34.974 +02:00 [INF] Time: 33ms
+2020-03-02 14:35:35.137 +02:00 [INF] No type errors found
+2020-03-02 14:35:35.141 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:35:35.141 +02:00 [INF] Time: 26ms
+2020-03-02 14:35:35.183 +02:00 [INF] webpack built bcdad395f0776a24a920 in 228ms
+2020-03-02 14:35:35.187 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: bcdad395f0776a24a920
+Version: webpack 4.32.2
+Time: 228ms
+Built at: 03/02/2020 2:35:35 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              90cbce207e187e3799ed.hot-update.json   53 bytes               [emitted]         
+    main-client.90cbce207e187e3799ed.hot-update.js   7.42 KiB  main-client  [emitted]         main-client
+main-client.90cbce207e187e3799ed.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.90cbce207e187e3799ed.hot-update.js main-client.js.map main-client.90cbce207e187e3799ed.hot-update.js.map
+2020-03-02 14:35:35.187 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 14:35:35.212 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/90cbce207e187e3799ed.hot-update.json  
+2020-03-02 14:35:35.215 +02:00 [INF] Request finished in 2.9628ms 200 application/json; charset=UTF-8
+2020-03-02 14:35:35.224 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.90cbce207e187e3799ed.hot-update.js  
+2020-03-02 14:35:35.229 +02:00 [INF] Request finished in 4.233ms 200 application/javascript; charset=UTF-8
+2020-03-02 14:35:35.243 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.90cbce207e187e3799ed.hot-update.js.map  
+2020-03-02 14:35:35.245 +02:00 [INF] Request finished in 2.145ms 200 application/json; charset=UTF-8
+2020-03-02 14:36:04.395 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 14:36:04.395 +02:00 [INF] webpack building...
+2020-03-02 14:36:04.635 +02:00 [INF] No type errors found
+2020-03-02 14:36:04.635 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:36:04.635 +02:00 [INF] Time: 18ms
+2020-03-02 14:36:04.848 +02:00 [INF] No type errors found
+2020-03-02 14:36:04.848 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 14:36:04.848 +02:00 [INF] Time: 15ms
+2020-03-02 14:36:04.870 +02:00 [INF] webpack built 94172523f528f6dfea2a in 250ms
+2020-03-02 14:36:04.894 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 94172523f528f6dfea2a
+Version: webpack 4.32.2
+Time: 250ms
+Built at: 03/02/2020 2:36:04 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              bcdad395f0776a24a920.hot-update.json   53 bytes               [emitted]         
+    main-client.bcdad395f0776a24a920.hot-update.js   7.32 KiB  main-client  [emitted]         main-client
+main-client.bcdad395f0776a24a920.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.bcdad395f0776a24a920.hot-update.js main-client.js.map main-client.bcdad395f0776a24a920.hot-update.js.map
+2020-03-02 14:36:04.894 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 14:36:04.919 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/bcdad395f0776a24a920.hot-update.json  
+2020-03-02 14:36:04.932 +02:00 [INF] Request finished in 13.6189ms 200 application/json; charset=UTF-8
+2020-03-02 14:36:05.911 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.bcdad395f0776a24a920.hot-update.js  
+2020-03-02 14:36:05.914 +02:00 [INF] Request finished in 2.4859ms 200 application/javascript; charset=UTF-8
+2020-03-02 14:36:05.956 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.bcdad395f0776a24a920.hot-update.js.map  
+2020-03-02 14:36:05.960 +02:00 [INF] Request finished in 4.472ms 200 application/json; charset=UTF-8

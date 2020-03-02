@@ -42,11 +42,13 @@
 
   <ItemGroup>
     <None Remove="ClientApp\components\shared\BigHeaderAd.tsx" />
+    <None Remove="ClientApp\components\shared\HomeRotationContainer.tsx" />
     <None Remove="ClientApp\components\shared\TopSidebarAd.tsx" />
   </ItemGroup>
 
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\components\shared\BigHeaderAd.tsx" />
+    <TypeScriptCompile Include="ClientApp\components\shared\HomeRotationContainer.tsx" />
     <TypeScriptCompile Include="ClientApp\components\shared\TopSidebarAd.tsx" />
   </ItemGroup>
 

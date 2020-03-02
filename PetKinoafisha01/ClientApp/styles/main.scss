@@ -132,3 +132,52 @@ label {
 .floatLeft {
     float: left;
 }
+
+.announcements {
+    padding-bottom: 5px;
+    background: url('../images/announcements.png') no-repeat center bottom;
+    margin: 25px 35px 36px 13px;
+
+
+    .rounded {
+        max-height: 375px;
+        border: #bebebe 1px solid;
+        background-color: #fff;
+        padding-top: 1px;
+        position: relative;
+        border-radius: 10px;
+        zoom: 1;
+
+        .h2 {
+            margin-top: -14px;
+            position: relative;
+            margin-left: 13px;
+            font-size: 19px;
+            line-height: 22px;
+            color: #000;
+            font-family: Trebuchet MS, Arial;
+            margin-bottom: 5px;
+        }
+    }
+
+    .white-bg {
+        display: inline;
+        background-color: #fff;
+        padding-left: 5px;
+        padding-right: 5px;
+
+        h1 {
+            font-size: 19px;
+            margin-top: -14px;
+            display: inline-block;
+        }
+
+        .orang {
+            color: #e04b00;
+        }
+    }
+}
+
+.white-bg {
+    display: inline;
+}

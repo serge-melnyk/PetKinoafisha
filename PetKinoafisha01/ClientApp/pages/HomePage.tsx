@@ -3,6 +3,7 @@ import { RouteComponentProps } from "react-router";
 import { Helmet } from "react-helmet";
 import { BigHeaderAd } from "@Components/shared/BigHeaderAd"
 import { TopSidebarAd } from "@Components/shared/TopSidebarAd";
+import { HomeRotationContainer } from "@Components/shared/HomeRotationContainer";
 import logo from "@Images/logo.png";
 
 type Props = RouteComponentProps<{}>;
@@ -25,6 +26,9 @@ export default class HomePage extends React.Component<Props, {}> {
                         <div className="floatLeft">
                             <div className="main-teaser">
                                 <BigHeaderAd></BigHeaderAd>
+                                <div>
+                                    <HomeRotationContainer></HomeRotationContainer>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -35,6 +39,7 @@ export default class HomePage extends React.Component<Props, {}> {
                     </div>
                 </div>
             </div>
-            </div>;
+            
+        </div>;
     }
 }

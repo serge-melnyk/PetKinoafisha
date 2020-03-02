@@ -1,4 +1,11 @@
-﻿.logo{
+﻿body{
+    /*background-color:aqua;*/
+    #react-app{
+        background-color:aqua !important;
+    }
+}
+
+.logo{
     text-align:center;
     margin: 10px;
 }
@@ -23,6 +30,16 @@
     a {
         color: #1344b0;
     }
+
+    /*.navbar-nav > li > a {
+
+        &:hover {
+            color: #555;
+            background: url('../images/top-menu.png') no-repeat left -36px;
+            background-repeat: no-repeat;
+            background-position: left;
+        }
+    }*/
 
     .li {
         float: left;
@@ -63,6 +80,16 @@
         width: 650px;
         height: 250px;
     }
+
+    .sidebar-header-ad{
+        border-radius: 15px;
+        width: 300px;
+        height: 250px;
+    }
+}
+
+.main-teaser {
+    width: 700px;
 }
 
 .layout{
@@ -100,4 +127,8 @@ label {
         color: #555;
         background-color: #e7e7e7;
     }    
+}
+
+.floatLeft {
+    float: left;
 }

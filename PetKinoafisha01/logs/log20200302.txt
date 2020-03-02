@@ -704,3 +704,63 @@ Entrypoint main-client [big] = main-client.js main-client.js.map
 2020-03-02 15:04:06.691 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
 2020-03-02 15:04:06.882 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/8ea8f2133c76c4316efa.hot-update.json  
 2020-03-02 15:04:06.885 +02:00 [INF] Request finished in 5.0082ms 404 
+2020-03-02 15:05:20.198 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 15:05:20.198 +02:00 [INF] webpack building...
+2020-03-02 15:05:21.415 +02:00 [INF] No type errors found
+2020-03-02 15:05:21.415 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 15:05:21.415 +02:00 [INF] Time: 753ms
+2020-03-02 15:05:21.427 +02:00 [INF] webpack built 500a69ce1cacf1f42f4c in 889ms
+2020-03-02 15:05:21.435 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 500a69ce1cacf1f42f4c
+Version: webpack 4.32.2
+Time: 889ms
+Built at: 03/02/2020 3:05:21 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              3728ef839c3797214d7a.hot-update.json   53 bytes               [emitted]         
+    main-client.3728ef839c3797214d7a.hot-update.js   25.8 KiB  main-client  [emitted]         main-client
+main-client.3728ef839c3797214d7a.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.3728ef839c3797214d7a.hot-update.js main-client.js.map main-client.3728ef839c3797214d7a.hot-update.js.map
+2020-03-02 15:05:21.435 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 15:05:21.438 +02:00 [INF] No type errors found
+2020-03-02 15:05:21.438 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 15:05:21.438 +02:00 [INF] Time: 657ms
+2020-03-02 15:05:21.466 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/8ea8f2133c76c4316efa.hot-update.json  
+2020-03-02 15:05:21.467 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/3728ef839c3797214d7a.hot-update.json  
+2020-03-02 15:05:21.470 +02:00 [INF] Request finished in 3.9562ms 404 
+2020-03-02 15:05:21.470 +02:00 [INF] Request finished in 3.5779ms 200 application/json; charset=UTF-8
+2020-03-02 15:05:21.480 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.3728ef839c3797214d7a.hot-update.js  
+2020-03-02 15:05:21.482 +02:00 [INF] Request finished in 1.6908ms 200 application/javascript; charset=UTF-8
+2020-03-02 15:05:32.166 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 15:05:32.167 +02:00 [INF] webpack building...
+2020-03-02 15:05:33.553 +02:00 [INF] No type errors found
+2020-03-02 15:05:33.553 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 15:05:33.553 +02:00 [INF] Time: 869ms
+2020-03-02 15:05:33.585 +02:00 [INF] webpack built 1f486544960abff05aea in 1100ms
+2020-03-02 15:05:33.593 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 1f486544960abff05aea
+Version: webpack 4.32.2
+Time: 1100ms
+Built at: 03/02/2020 3:05:33 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              500a69ce1cacf1f42f4c.hot-update.json   53 bytes               [emitted]         
+    main-client.500a69ce1cacf1f42f4c.hot-update.js   28.2 KiB  main-client  [emitted]         main-client
+main-client.500a69ce1cacf1f42f4c.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.35 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.500a69ce1cacf1f42f4c.hot-update.js main-client.js.map main-client.500a69ce1cacf1f42f4c.hot-update.js.map
+2020-03-02 15:05:33.593 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 15:05:33.621 +02:00 [INF] No type errors found
+2020-03-02 15:05:33.622 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 15:05:33.622 +02:00 [INF] Time: 867ms
+2020-03-02 15:05:33.754 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/500a69ce1cacf1f42f4c.hot-update.json  
+2020-03-02 15:05:33.763 +02:00 [INF] Request finished in 9.0189ms 200 application/json; charset=UTF-8
+2020-03-02 15:05:33.778 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.500a69ce1cacf1f42f4c.hot-update.js  
+2020-03-02 15:05:33.791 +02:00 [INF] Request finished in 13.4588ms 200 application/javascript; charset=UTF-8
+2020-03-02 15:05:34.388 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/8ea8f2133c76c4316efa.hot-update.json  
+2020-03-02 15:05:34.390 +02:00 [INF] Request finished in 2.3006ms 404 
+2020-03-02 15:06:32.464 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 15:06:32.469 +02:00 [INF] Request finished in 4.9821ms 200 application/json; charset=UTF-8
+2020-03-02 15:06:32.819 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.3728ef839c3797214d7a.hot-update.js.map  
+2020-03-02 15:06:32.821 +02:00 [INF] Request finished in 1.6851ms 200 application/json; charset=UTF-8
+2020-03-02 15:06:32.825 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.500a69ce1cacf1f42f4c.hot-update.js.map  
+2020-03-02 15:06:32.827 +02:00 [INF] Request finished in 1.622ms 200 application/json; charset=UTF-8

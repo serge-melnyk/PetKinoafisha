@@ -4,11 +4,21 @@
 }
 
 .top-menu {
-    float: left;
+    /*float: left;*/
     font-size: 18px;
     line-height: 26px;
     padding: 14px 0 0 0;
     /*margin: 0 0 0 -7px;*/
+    .top-menu-nav {
+        margin-left: -30px;
+
+        button {
+            background-image: url('../images/menu_button.svg');
+            background-color: aliceblue;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+    }
 
     a {
         color: #1344b0;

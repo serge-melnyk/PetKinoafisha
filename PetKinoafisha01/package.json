@@ -55,8 +55,8 @@
     "bind-decorator": "1.0.11",
     "bootstrap-css-only": "3.3.5",
     "bootstrap3-native": "^1.0.11",
-    "custom-event-polyfill": "1.0.7",
     "connected-react-router": "6.4.0",
+    "custom-event-polyfill": "1.0.7",
     "domain-wait": "^1.2.1",
     "formik": "1.5.7",
     "history": "4.9.0",
@@ -71,6 +71,7 @@
     "react-router": "5.0.0",
     "react-router-dom": "5.0.0",
     "react-toastify": "5.2.1",
+    "reactstrap": "^8.4.1",
     "redux": "4.0.1",
     "redux-thunk": "2.3.0"
   },

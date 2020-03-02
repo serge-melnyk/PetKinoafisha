@@ -7,6 +7,7 @@ import { Dropdown, Collapse } from "bootstrap3-native";
 import bind from 'bind-decorator';
 import logo from "@Images/logo2.png";
 
+
 class TopMenu extends React.Component<{}, { logoutAction: boolean }> {
 
     constructor(props) {
@@ -45,8 +46,9 @@ class TopMenu extends React.Component<{}, { logoutAction: boolean }> {
             </div>
             <div className="top-menu">
                 <div className="container">
-                    <div className="row">
+                    <div className="row top-menu-nav">
                         <div className="col-md-9">
+                           
                             <button ref={x => this.elCollapseButton = x} type="button" className="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                                 <span className="sr-only">Toggle navigation</span>
                                 <span className="icon-bar"></span>
@@ -70,7 +72,7 @@ class TopMenu extends React.Component<{}, { logoutAction: boolean }> {
                             </div>
                         </div>
                         <div className="col-md-3">
-                            <p>kdfkl</p>
+                            
                         </div>
                     </div>
                 </div>

@@ -3712,3 +3712,671 @@ Entrypoint main-client [big] = main-client.js main-client.849be9bac9894f0e7e40.h
 2020-03-02 17:54:26.068 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
 2020-03-02 17:54:26.071 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
 2020-03-02 17:54:26.071 +02:00 [INF] Request finished in 3.798ms 200 image/x-icon
+2020-03-02 18:07:56.922 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\node_modules\.staging\string-convert-992cf21e\package.json
+2020-03-02 18:10:44.071 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:10:44.071 +02:00 [INF] webpack building...
+2020-03-02 18:10:45.670 +02:00 [INF] Type checking in progress...
+2020-03-02 18:10:45.707 +02:00 [INF] webpack built 7b2359cfe75ce9da7d7e in 1397ms
+2020-03-02 18:10:45.714 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 7b2359cfe75ce9da7d7e
+Version: webpack 4.32.2
+Time: 1397ms
+Built at: 03/02/2020 6:10:45 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              7fd06afabe74d7ca46fb.hot-update.json   53 bytes               [emitted]         
+    main-client.7fd06afabe74d7ca46fb.hot-update.js    430 KiB  main-client  [emitted]  [big]  main-client
+main-client.7fd06afabe74d7ca46fb.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js    3.9 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.7fd06afabe74d7ca46fb.hot-update.js main-client.js.map main-client.7fd06afabe74d7ca46fb.hot-update.js.map
+2020-03-02 18:10:45.714 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:10:45.889 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/7fd06afabe74d7ca46fb.hot-update.json  
+2020-03-02 18:10:46.152 +02:00 [INF] Request finished in 263.3476ms 200 application/json; charset=UTF-8
+2020-03-02 18:10:46.373 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/7fd06afabe74d7ca46fb.hot-update.json  
+2020-03-02 18:10:46.378 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.7fd06afabe74d7ca46fb.hot-update.js  
+2020-03-02 18:10:46.586 +02:00 [INF] Request finished in 213.1475ms 200 application/json; charset=UTF-8
+2020-03-02 18:10:46.592 +02:00 [INF] Request finished in 214.5083ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:10:46.618 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.7fd06afabe74d7ca46fb.hot-update.js  
+2020-03-02 18:10:46.653 +02:00 [INF] Type checking in progress...
+2020-03-02 18:10:46.665 +02:00 [INF] Request finished in 47.0749ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:10:47.179 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.7fd06afabe74d7ca46fb.hot-update.js.map  
+2020-03-02 18:10:47.247 +02:00 [INF] Request finished in 68.9243ms 200 application/json; charset=UTF-8
+2020-03-02 18:11:12.268 +02:00 [INF] No type errors found
+2020-03-02 18:11:12.268 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:11:12.268 +02:00 [INF] Time: 27994ms
+2020-03-02 18:11:12.687 +02:00 [INF] No type errors found
+2020-03-02 18:11:12.688 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:11:12.688 +02:00 [INF] Time: 28412ms
+2020-03-02 18:11:16.073 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:11:16.073 +02:00 [INF] webpack building...
+2020-03-02 18:11:16.848 +02:00 [INF] No type errors found
+2020-03-02 18:11:16.848 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:11:16.848 +02:00 [INF] Time: 549ms
+2020-03-02 18:11:17.127 +02:00 [INF] No type errors found
+2020-03-02 18:11:17.154 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:11:17.154 +02:00 [INF] Time: 513ms
+2020-03-02 18:11:17.292 +02:00 [INF] webpack built 124b62f60e6df66feb52 in 853ms
+2020-03-02 18:11:17.297 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Failed to compile.
+2020-03-02 18:11:17.297 +02:00 [ERR] [31m├Ч[39m [90mя╜вwdmя╜г[39m: Hash: 124b62f60e6df66feb52
+Version: webpack 4.32.2
+Time: 853ms
+Built at: 03/02/2020 6:11:17 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              7b2359cfe75ce9da7d7e.hot-update.json   53 bytes               [emitted]         
+    main-client.7b2359cfe75ce9da7d7e.hot-update.js   63.2 KiB  main-client  [emitted]         main-client
+main-client.7b2359cfe75ce9da7d7e.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.95 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.7b2359cfe75ce9da7d7e.hot-update.js main-client.js.map main-client.7b2359cfe75ce9da7d7e.hot-update.js.map
+
+ERROR in ./node_modules/slick-carousel/slick/fonts/slick.eot 1:0
+Module parse failed: Unexpected character ' ' (1:0)
+You may need an appropriate loader to handle this file type.
+(Source code omitted for this binary file)
+ @ ./node_modules/slick-carousel/slick/slick-theme.css (./node_modules/css-loader/dist/cjs.js!./node_modules/slick-carousel/slick/slick-theme.css) 5:41-69 6:41-69
+ @ ./node_modules/slick-carousel/slick/slick-theme.css
+ @ ./ClientApp/components/shared/HomeRotationContainer.tsx
+ @ ./ClientApp/pages/HomePage.tsx
+ @ ./ClientApp/routes.tsx
+ @ ./ClientApp/boot-client.tsx
+ @ multi event-source-polyfill webpack-hot-middleware/client?path=__webpack_hmr&dynamicPublicPath=true ./ClientApp/boot-client.tsx
+
+ERROR in ./node_modules/slick-carousel/slick/fonts/slick.ttf 1:0
+Module parse failed: Unexpected character ' ' (1:0)
+You may need an appropriate loader to handle this file type.
+(Source code omitted for this binary file)
+ @ ./node_modules/slick-carousel/slick/slick-theme.css (./node_modules/css-loader/dist/cjs.js!./node_modules/slick-carousel/slick/slick-theme.css) 8:41-69
+ @ ./node_modules/slick-carousel/slick/slick-theme.css
+ @ ./ClientApp/components/shared/HomeRotationContainer.tsx
+ @ ./ClientApp/pages/HomePage.tsx
+ @ ./ClientApp/routes.tsx
+ @ ./ClientApp/boot-client.tsx
+ @ multi event-source-polyfill webpack-hot-middleware/client?path=__webpack_hmr&dynamicPublicPath=true ./ClientApp/boot-client.tsx
+
+ERROR in ./node_modules/slick-carousel/slick/fonts/slick.woff 1:8
+Module parse failed: Unexpected character ' ' (1:8)
+You may need an appropriate loader to handle this file type.
+(Source code omitted for this binary file)
+ @ ./node_modules/slick-carousel/slick/slick-theme.css (./node_modules/css-loader/dist/cjs.js!./node_modules/slick-carousel/slick/slick-theme.css) 7:41-70
+ @ ./node_modules/slick-carousel/slick/slick-theme.css
+ @ ./ClientApp/components/shared/HomeRotationContainer.tsx
+ @ ./ClientApp/pages/HomePage.tsx
+ @ ./ClientApp/routes.tsx
+ @ ./ClientApp/boot-client.tsx
+ @ multi event-source-polyfill webpack-hot-middleware/client?path=__webpack_hmr&dynamicPublicPath=true ./ClientApp/boot-client.tsx
+2020-03-02 18:17:27.987 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 18:17:27.996 +02:00 [INF] Request finished in 8.3324ms 200 application/json; charset=UTF-8
+2020-03-02 18:17:28.420 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.0adb549cd7597a95899b.hot-update.js.map  
+2020-03-02 18:17:28.422 +02:00 [INF] Request finished in 3.0142ms 200 application/json; charset=UTF-8
+2020-03-02 18:17:28.425 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.94a3501640f84d30b792.hot-update.js.map  
+2020-03-02 18:17:28.430 +02:00 [INF] Request finished in 4.7677ms 200 application/json; charset=UTF-8
+2020-03-02 18:17:28.437 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.392ea71105f6785b79c8.hot-update.js.map  
+2020-03-02 18:17:28.446 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.849be9bac9894f0e7e40.hot-update.js.map  
+2020-03-02 18:17:28.446 +02:00 [INF] Request finished in 9.8801ms 200 application/json; charset=UTF-8
+2020-03-02 18:17:28.450 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.7fd06afabe74d7ca46fb.hot-update.js.map  
+2020-03-02 18:17:28.451 +02:00 [INF] Request finished in 4.9481ms 200 application/json; charset=UTF-8
+2020-03-02 18:17:28.452 +02:00 [INF] Request finished in 1.8188ms 200 application/json; charset=UTF-8
+2020-03-02 18:17:31.404 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:17:31.406 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:17:31.413 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:17:31.413 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:17:31.413 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.032ms.
+2020-03-02 18:17:31.423 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:17:32.882 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 1468.2918ms
+2020-03-02 18:17:32.882 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:17:32.999 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: Prerendering failed because of error: Error: Module parse failed: Unexpected token (2:0)
+You may need an appropriate loader to handle this file type.
+| /* Slider */
+> .slick-slider
+| {
+|     position: relative;
+    at eval (webpack-internal:///./node_modules/slick-carousel/slick/slick.css:1:7)
+    at Object../node_modules/slick-carousel/slick/slick.css (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:1208:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/components/shared/HomeRotationContainer.tsx:8:88)
+    at Object../ClientApp/components/shared/HomeRotationContainer.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:215:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/pages/HomePage.tsx:7:98)
+    at Object../ClientApp/pages/HomePage.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:394:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/routes.tsx:10:73)
+Current directory is: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01
+
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-02 18:17:33.076 +02:00 [INF] Request finished in 1674.4333ms 500 text/html; charset=utf-8
+2020-03-02 18:17:33.793 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 18:17:33.796 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 18:17:33.796 +02:00 [INF] Request finished in 3.2388ms 200 image/x-icon
+2020-03-02 18:17:40.889 +02:00 [INF] Request finished in 3573541.3575ms 200 text/event-stream; charset=utf-8
+2020-03-02 18:18:40.510 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\webpack.config.js
+2020-03-02 18:18:49.178 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:18:49.183 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:18:49.183 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:18:49.184 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:18:49.184 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0536ms.
+2020-03-02 18:18:49.184 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:18:49.983 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 799.38740000000007ms
+2020-03-02 18:18:49.983 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:18:49.985 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: Prerendering failed because of error: Error: Module parse failed: Unexpected token (2:0)
+You may need an appropriate loader to handle this file type.
+| /* Slider */
+> .slick-slider
+| {
+|     position: relative;
+    at eval (webpack-internal:///./node_modules/slick-carousel/slick/slick.css:1:7)
+    at Object../node_modules/slick-carousel/slick/slick.css (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:1208:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/components/shared/HomeRotationContainer.tsx:8:88)
+    at Object../ClientApp/components/shared/HomeRotationContainer.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:215:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/pages/HomePage.tsx:7:98)
+    at Object../ClientApp/pages/HomePage.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:394:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/routes.tsx:10:73)
+Current directory is: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01
+
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-02 18:18:50.006 +02:00 [INF] Request finished in 828.1651ms 500 text/html; charset=utf-8
+2020-03-02 18:18:50.591 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 18:18:50.592 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 18:18:50.593 +02:00 [INF] Request finished in 1.9249ms 200 image/x-icon
+2020-03-02 18:18:54.636 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:18:54.637 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:18:54.637 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:18:54.638 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:18:54.638 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.030500000000000003ms.
+2020-03-02 18:18:54.638 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:18:54.793 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 154.7228ms
+2020-03-02 18:18:54.793 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:18:54.795 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: Prerendering failed because of error: Error: Module parse failed: Unexpected token (2:0)
+You may need an appropriate loader to handle this file type.
+| /* Slider */
+> .slick-slider
+| {
+|     position: relative;
+    at eval (webpack-internal:///./node_modules/slick-carousel/slick/slick.css:1:7)
+    at Object../node_modules/slick-carousel/slick/slick.css (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:1208:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/components/shared/HomeRotationContainer.tsx:8:88)
+    at Object../ClientApp/components/shared/HomeRotationContainer.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:215:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/pages/HomePage.tsx:7:98)
+    at Object../ClientApp/pages/HomePage.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:394:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/routes.tsx:10:73)
+Current directory is: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01
+
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-02 18:18:54.814 +02:00 [INF] Request finished in 179.8478ms 500 text/html; charset=utf-8
+2020-03-02 18:18:55.347 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 18:18:55.349 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 18:18:55.349 +02:00 [INF] Request finished in 1.8811ms 200 image/x-icon
+2020-03-02 18:19:15.401 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\webpack.config.js
+2020-03-02 18:19:46.938 +02:00 [INF] User profile is available. Using 'C:\Users\smelnyk1\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-03-02 18:19:51.499 +02:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-03-02 18:19:51.930 +02:00 [INF] [36m=== Webpack compilation mode: development ===[0m
+2020-03-02 18:19:52.320 +02:00 [INF] Starting type checking service...
+2020-03-02 18:19:52.320 +02:00 [INF] Using 1 worker with 2048MB memory limit
+2020-03-02 18:19:52.447 +02:00 [INF] Starting type checking service...
+2020-03-02 18:19:52.447 +02:00 [INF] Using 1 worker with 2048MB memory limit
+2020-03-02 18:19:53.086 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:19:53.202 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:19:53.215 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:19:53.228 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:19:53.251 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 8.6715ms.
+2020-03-02 18:19:53.317 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:19:54.811 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 1592.8838ms
+2020-03-02 18:19:54.814 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:19:54.894 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: Prerendering failed because of error: Error: Module parse failed: Unexpected token (2:0)
+You may need an appropriate loader to handle this file type.
+| /* Slider */
+> .slick-slider
+| {
+|     position: relative;
+    at eval (webpack-internal:///./node_modules/slick-carousel/slick/slick.css:1:7)
+    at Object../node_modules/slick-carousel/slick/slick.css (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:1208:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/components/shared/HomeRotationContainer.tsx:8:88)
+    at Object../ClientApp/components/shared/HomeRotationContainer.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:215:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/pages/HomePage.tsx:7:98)
+    at Object../ClientApp/pages/HomePage.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:394:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/routes.tsx:10:73)
+Current directory is: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01
+
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-02 18:19:55.050 +02:00 [INF] Request finished in 1967.8693ms 500 text/html; charset=utf-8
+2020-03-02 18:20:04.142 +02:00 [INF] No type errors found
+2020-03-02 18:20:04.142 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:20:04.143 +02:00 [INF] Time: 11838ms
+2020-03-02 18:20:04.164 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\main-client.js
+2020-03-02 18:20:04.176 +02:00 [INF] webpack built 1540efe80ebcd847e0f9 in 11845ms
+2020-03-02 18:20:04.290 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 1540efe80ebcd847e0f9
+Version: webpack 4.32.2
+Time: 11845ms
+Built at: 03/02/2020 6:20:04 PM
+                Asset       Size       Chunks                    Chunk Names
+fonts/menu_button.svg  215 bytes               [emitted]         
+      fonts/slick.eot      2 KiB               [emitted]         
+      fonts/slick.svg    2.1 KiB               [emitted]         
+      fonts/slick.ttf   1.85 KiB               [emitted]         
+     fonts/slick.woff   1.35 KiB               [emitted]         
+       main-client.js   3.94 MiB  main-client  [emitted]  [big]  main-client
+   main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.js.map
+2020-03-02 18:20:04.292 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:20:06.233 +02:00 [INF] No type errors found
+2020-03-02 18:20:06.235 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:20:06.239 +02:00 [INF] Time: 11706ms
+2020-03-02 18:21:04.255 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:21:04.256 +02:00 [INF] webpack building...
+2020-03-02 18:21:05.211 +02:00 [INF] Type checking in progress...
+2020-03-02 18:21:05.320 +02:00 [INF] webpack built ec361e95a0fcb0d6bf05 in 747ms
+2020-03-02 18:21:05.352 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: ec361e95a0fcb0d6bf05
+Version: webpack 4.32.2
+Time: 747ms
+Built at: 03/02/2020 6:21:05 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              1540efe80ebcd847e0f9.hot-update.json   53 bytes               [emitted]         
+                             fonts/menu_button.svg  215 bytes                                 
+                                   fonts/slick.eot      2 KiB                                 
+                                   fonts/slick.svg    2.1 KiB                                 
+                                   fonts/slick.ttf   1.85 KiB                                 
+                                  fonts/slick.woff   1.35 KiB                                 
+    main-client.1540efe80ebcd847e0f9.hot-update.js   5.79 KiB  main-client  [emitted]         main-client
+main-client.1540efe80ebcd847e0f9.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.95 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.1540efe80ebcd847e0f9.hot-update.js main-client.js.map main-client.1540efe80ebcd847e0f9.hot-update.js.map
+2020-03-02 18:21:05.353 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:21:05.354 +02:00 [INF] No type errors found
+2020-03-02 18:21:05.354 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:21:05.354 +02:00 [INF] Time: 886ms
+2020-03-02 18:21:05.398 +02:00 [INF] No type errors found
+2020-03-02 18:21:05.399 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:21:05.399 +02:00 [INF] Time: 884ms
+2020-03-02 18:21:09.312 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:21:09.313 +02:00 [INF] webpack building...
+2020-03-02 18:21:10.075 +02:00 [INF] Type checking in progress...
+2020-03-02 18:21:10.115 +02:00 [INF] webpack built af4552115dc55a7d7f25 in 560ms
+2020-03-02 18:21:10.121 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: af4552115dc55a7d7f25
+Version: webpack 4.32.2
+Time: 560ms
+Built at: 03/02/2020 6:21:10 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              ec361e95a0fcb0d6bf05.hot-update.json   53 bytes               [emitted]         
+                             fonts/menu_button.svg  215 bytes                                 
+                                   fonts/slick.eot      2 KiB                                 
+                                   fonts/slick.svg    2.1 KiB                                 
+                                   fonts/slick.ttf   1.85 KiB                                 
+                                  fonts/slick.woff   1.35 KiB                                 
+    main-client.ec361e95a0fcb0d6bf05.hot-update.js   10.3 KiB  main-client  [emitted]         main-client
+main-client.ec361e95a0fcb0d6bf05.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.94 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.ec361e95a0fcb0d6bf05.hot-update.js main-client.js.map main-client.ec361e95a0fcb0d6bf05.hot-update.js.map
+2020-03-02 18:21:10.121 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:21:10.121 +02:00 [INF] No type errors found
+2020-03-02 18:21:10.121 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:21:10.121 +02:00 [INF] Time: 606ms
+2020-03-02 18:21:10.181 +02:00 [INF] No type errors found
+2020-03-02 18:21:10.181 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:21:10.181 +02:00 [INF] Time: 558ms
+2020-03-02 18:21:16.617 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:21:16.618 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:21:16.618 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:21:16.618 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:21:16.619 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0989ms.
+2020-03-02 18:21:16.619 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:21:17.204 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 586.0714ms
+2020-03-02 18:21:17.205 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:21:17.206 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+Microsoft.AspNetCore.NodeServices.HostingModels.NodeInvocationException: Prerendering failed because of error: Error: Module parse failed: Unexpected token (2:0)
+You may need an appropriate loader to handle this file type.
+| /* Slider */
+> .slick-slider
+| {
+|     position: relative;
+    at eval (webpack-internal:///./node_modules/slick-carousel/slick/slick.css:1:7)
+    at Object../node_modules/slick-carousel/slick/slick.css (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:1208:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/layouts/AuthorizedLayout.tsx:9:88)
+    at Object../ClientApp/layouts/AuthorizedLayout.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:342:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/routes.tsx:2:83)
+    at Object../ClientApp/routes.tsx (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:420:1)
+    at __webpack_require__ (C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\dist\main-server.js:20:30)
+    at eval (webpack-internal:///./ClientApp/boot-server.tsx:16:65)
+Current directory is: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01
+
+   at Microsoft.AspNetCore.NodeServices.HostingModels.HttpNodeInstance.InvokeExportAsync[T](NodeInvocationInfo invocationInfo, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.HostingModels.OutOfProcessNodeInstance.InvokeExportAsync[T](CancellationToken cancellationToken, String moduleName, String exportNameOrNull, Object[] args)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.NodeServices.NodeServicesImpl.InvokeExportWithPossibleRetryAsync[T](String moduleName, String exportedFunctionName, Object[] args, Boolean allowRetry, CancellationToken cancellationToken)
+   at AspNetCore.Views_Main_Index.ExecuteAsync() in C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\Views\Main\Index.cshtml:line 7
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultAsync(IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResultFilterAsync[TFilter,TFilterAsync]()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResultExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeResultFilters()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextResourceFilter()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeFilterPipelineAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeAsync()
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.SpaServices.Webpack.ConditionalProxyMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-03-02 18:21:17.225 +02:00 [INF] Request finished in 607.6766ms 500 text/html; charset=utf-8
+2020-03-02 18:21:18.265 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 18:21:18.282 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 18:21:18.283 +02:00 [INF] Request finished in 18.5939ms 200 image/x-icon
+2020-03-02 18:21:24.890 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:21:24.890 +02:00 [INF] webpack building...
+2020-03-02 18:21:24.927 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\layouts\AuthorizedLayout.tsx
+2020-03-02 18:21:25.637 +02:00 [INF] Type checking in progress...
+2020-03-02 18:21:25.689 +02:00 [INF] webpack built 8cacb9faffda0c39b4be in 543ms
+2020-03-02 18:21:25.697 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 8cacb9faffda0c39b4be
+Version: webpack 4.32.2
+Time: 543ms
+Built at: 03/02/2020 6:21:25 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              af4552115dc55a7d7f25.hot-update.json   53 bytes               [emitted]         
+                             fonts/menu_button.svg  215 bytes                                 
+    main-client.af4552115dc55a7d7f25.hot-update.js   5.66 KiB  main-client  [emitted]         main-client
+main-client.af4552115dc55a7d7f25.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js    3.9 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.af4552115dc55a7d7f25.hot-update.js main-client.js.map main-client.af4552115dc55a7d7f25.hot-update.js.map
+2020-03-02 18:21:25.697 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:21:25.698 +02:00 [INF] No type errors found
+2020-03-02 18:21:25.698 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:21:25.698 +02:00 [INF] Time: 604ms
+2020-03-02 18:21:25.871 +02:00 [INF] No type errors found
+2020-03-02 18:21:25.873 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:21:25.873 +02:00 [INF] Time: 535ms
+2020-03-02 18:21:33.437 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:21:33.438 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:21:33.438 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:21:33.438 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:21:33.438 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.029ms.
+2020-03-02 18:21:33.438 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:21:34.822 +02:00 [INF] Executed ViewResult - view Index executed in 1384.1958ms.
+2020-03-02 18:21:34.823 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 1384.8321ms
+2020-03-02 18:21:34.823 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:21:34.847 +02:00 [INF] Request finished in 1409.7856ms 200 text/html; charset=utf-8
+2020-03-02 18:21:34.874 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-03-02 18:21:34.924 +02:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.css'
+2020-03-02 18:21:34.924 +02:00 [INF] Request finished in 49.7111ms 200 text/css
+2020-03-02 18:21:35.085 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=aF0jBZzXAlZV6wDVlprovTtcB3D54ig5WLgKwod7078  
+2020-03-02 18:21:35.101 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=oifBmtiVn9LoESQfM8rFoj-ePLkD8bdAFIYPssciAVk  
+2020-03-02 18:21:35.585 +02:00 [INF] Request finished in 483.5208ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:21:35.725 +02:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.js'
+2020-03-02 18:21:35.727 +02:00 [INF] Request finished in 641.7952ms 200 application/javascript
+2020-03-02 18:21:36.951 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 18:21:36.994 +02:00 [INF] Request finished in 43.2005ms 200 application/json; charset=UTF-8
+2020-03-02 18:21:37.147 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 18:21:37.170 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 18:21:37.173 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 18:21:37.173 +02:00 [INF] Request finished in 3.2502ms 200 image/x-icon
+2020-03-02 18:23:34.108 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\ClientApp\layouts\AuthorizedLayout.tsx
+2020-03-02 18:23:34.131 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:23:34.131 +02:00 [INF] webpack building...
+2020-03-02 18:23:34.963 +02:00 [INF] No type errors found
+2020-03-02 18:23:34.963 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:23:34.964 +02:00 [INF] Time: 595ms
+2020-03-02 18:23:35.203 +02:00 [INF] No type errors found
+2020-03-02 18:23:35.204 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:23:35.204 +02:00 [INF] Time: 430ms
+2020-03-02 18:23:35.250 +02:00 [INF] webpack built 3f9f603c5277fe2eacac in 859ms
+2020-03-02 18:23:35.255 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 3f9f603c5277fe2eacac
+Version: webpack 4.32.2
+Time: 859ms
+Built at: 03/02/2020 6:23:35 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              8cacb9faffda0c39b4be.hot-update.json   53 bytes               [emitted]         
+                             fonts/menu_button.svg  215 bytes                                 
+                                   fonts/slick.eot      2 KiB               [emitted]         
+                                   fonts/slick.svg    2.1 KiB               [emitted]         
+                                   fonts/slick.ttf   1.85 KiB               [emitted]         
+                                  fonts/slick.woff   1.35 KiB               [emitted]         
+    main-client.8cacb9faffda0c39b4be.hot-update.js   52.7 KiB  main-client  [emitted]         main-client
+main-client.8cacb9faffda0c39b4be.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.95 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.8cacb9faffda0c39b4be.hot-update.js main-client.js.map main-client.8cacb9faffda0c39b4be.hot-update.js.map
+2020-03-02 18:23:35.255 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:23:35.306 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/8cacb9faffda0c39b4be.hot-update.json  
+2020-03-02 18:23:35.309 +02:00 [INF] Request finished in 3.4748ms 200 application/json; charset=UTF-8
+2020-03-02 18:23:35.322 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.8cacb9faffda0c39b4be.hot-update.js  
+2020-03-02 18:23:35.324 +02:00 [INF] Request finished in 1.7044ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:23:35.431 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.8cacb9faffda0c39b4be.hot-update.js.map  
+2020-03-02 18:23:35.468 +02:00 [INF] Request finished in 37.6501ms 200 application/json; charset=UTF-8
+2020-03-02 18:23:35.481 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/fonts/slick.woff  
+2020-03-02 18:23:35.506 +02:00 [INF] Request finished in 25.643ms 200 font/woff; charset=UTF-8
+2020-03-02 18:24:29.980 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 18:24:30.037 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/7b2359cfe75ce9da7d7e.hot-update.json  
+2020-03-02 18:24:30.047 +02:00 [INF] Request finished in 9.9401ms 404 
+2020-03-02 18:26:10.345 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/  
+2020-03-02 18:26:10.345 +02:00 [INF] Executing endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:26:10.345 +02:00 [INF] Route matched with {action = "Index", controller = "Main"}. Executing action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)
+2020-03-02 18:26:10.346 +02:00 [INF] Executing action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) - Validation state: "Valid"
+2020-03-02 18:26:10.346 +02:00 [INF] Executed action method PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.0502ms.
+2020-03-02 18:26:10.346 +02:00 [INF] Executing ViewResult, running view Index.
+2020-03-02 18:26:12.088 +02:00 [INF] Executed ViewResult - view Index executed in 1742.0532ms.
+2020-03-02 18:26:12.091 +02:00 [INF] Executed action PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01) in 1745.5821ms
+2020-03-02 18:26:12.091 +02:00 [INF] Executed endpoint 'PetKinoafisha01.Controllers.MainController.Index (PetKinoafisha01)'
+2020-03-02 18:26:12.091 +02:00 [INF] Request finished in 1746.4392ms 200 text/html; charset=utf-8
+2020-03-02 18:26:12.142 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.css?v=f-quCl14D-DPeasviVSwrLusD7NUpgjDT84aVGn-XjY  
+2020-03-02 18:26:12.182 +02:00 [INF] Sending file. Request path: '/dist/vendor.css'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.css'
+2020-03-02 18:26:12.182 +02:00 [INF] Request finished in 42.0017ms 200 text/css
+2020-03-02 18:26:12.363 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/vendor.js?v=aF0jBZzXAlZV6wDVlprovTtcB3D54ig5WLgKwod7078  
+2020-03-02 18:26:12.366 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js?v=dBFgm5YxsbMBVA9epaVA4lWrOFCwnccJOzkLEqPa_MM  
+2020-03-02 18:26:12.462 +02:00 [INF] Request finished in 275316.647ms 200 text/event-stream; charset=utf-8
+2020-03-02 18:26:12.896 +02:00 [INF] Request finished in 529.3119ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:26:13.104 +02:00 [INF] Sending file. Request path: '/dist/vendor.js'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\dist\vendor.js'
+2020-03-02 18:26:13.104 +02:00 [INF] Request finished in 740.9076ms 200 application/javascript
+2020-03-02 18:26:14.137 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/fonts/slick.woff  
+2020-03-02 18:26:14.139 +02:00 [INF] Request finished in 1.7602ms 200 font/woff; charset=UTF-8
+2020-03-02 18:26:14.264 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.js.map  
+2020-03-02 18:26:14.290 +02:00 [INF] Request finished in 26.7584ms 200 application/json; charset=UTF-8
+2020-03-02 18:26:14.447 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/__webpack_hmr  
+2020-03-02 18:26:14.642 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/favicon.ico  
+2020-03-02 18:26:14.646 +02:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\wwwroot\favicon.ico'
+2020-03-02 18:26:14.646 +02:00 [INF] Request finished in 4.1579ms 200 image/x-icon
+2020-03-02 18:26:15.943 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/7b2359cfe75ce9da7d7e.hot-update.json  
+2020-03-02 18:26:15.946 +02:00 [INF] Request finished in 2.9338ms 404 
+2020-03-02 18:26:26.089 +02:00 [INF] Node will restart because file changed: C:\Users\smelnyk1\source\repos\PetKinoafisha01\PetKinoafisha01\webpack.config.js
+2020-03-02 18:26:43.663 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:26:43.663 +02:00 [INF] webpack building...
+2020-03-02 18:26:44.479 +02:00 [INF] No type errors found
+2020-03-02 18:26:44.479 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:26:44.479 +02:00 [INF] Time: 544ms
+2020-03-02 18:26:44.575 +02:00 [INF] webpack built 95999e76c920eb5eca33 in 608ms
+2020-03-02 18:26:44.616 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 95999e76c920eb5eca33
+Version: webpack 4.32.2
+Time: 608ms
+Built at: 03/02/2020 6:26:44 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              3f9f603c5277fe2eacac.hot-update.json   53 bytes               [emitted]         
+                             fonts/menu_button.svg  215 bytes                                 
+                                   fonts/slick.eot      2 KiB                                 
+                                   fonts/slick.svg    2.1 KiB                                 
+                                   fonts/slick.ttf   1.85 KiB                                 
+                                  fonts/slick.woff   1.35 KiB                                 
+    main-client.3f9f603c5277fe2eacac.hot-update.js   10.3 KiB  main-client  [emitted]         main-client
+main-client.3f9f603c5277fe2eacac.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.95 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.3f9f603c5277fe2eacac.hot-update.js main-client.js.map main-client.3f9f603c5277fe2eacac.hot-update.js.map
+2020-03-02 18:26:44.616 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:26:44.668 +02:00 [INF] No type errors found
+2020-03-02 18:26:44.669 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:26:44.669 +02:00 [INF] Time: 615ms
+2020-03-02 18:26:44.680 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/3f9f603c5277fe2eacac.hot-update.json  
+2020-03-02 18:26:44.686 +02:00 [INF] Request finished in 5.9725ms 200 application/json; charset=UTF-8
+2020-03-02 18:26:44.697 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.3f9f603c5277fe2eacac.hot-update.js  
+2020-03-02 18:26:44.699 +02:00 [INF] Request finished in 1.8856ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:26:44.732 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/7b2359cfe75ce9da7d7e.hot-update.json  
+2020-03-02 18:26:44.739 +02:00 [INF] Request finished in 7.8147ms 404 
+2020-03-02 18:26:44.802 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.3f9f603c5277fe2eacac.hot-update.js.map  
+2020-03-02 18:26:44.805 +02:00 [INF] Request finished in 2.5675ms 200 application/json; charset=UTF-8
+2020-03-02 18:27:01.852 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiling...
+2020-03-02 18:27:01.852 +02:00 [INF] webpack building...
+2020-03-02 18:27:02.828 +02:00 [INF] No type errors found
+2020-03-02 18:27:02.828 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:27:02.829 +02:00 [INF] Time: 773ms
+2020-03-02 18:27:02.859 +02:00 [INF] webpack built 353b19505c64dda533c2 in 774ms
+2020-03-02 18:27:02.865 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Hash: 353b19505c64dda533c2
+Version: webpack 4.32.2
+Time: 774ms
+Built at: 03/02/2020 6:27:02 PM
+                                             Asset       Size       Chunks                    Chunk Names
+              95999e76c920eb5eca33.hot-update.json   53 bytes               [emitted]         
+                             fonts/menu_button.svg  215 bytes                                 
+                                   fonts/slick.eot      2 KiB                                 
+                                   fonts/slick.svg    2.1 KiB                                 
+                                   fonts/slick.ttf   1.85 KiB                                 
+                                  fonts/slick.woff   1.35 KiB                                 
+    main-client.95999e76c920eb5eca33.hot-update.js   10.3 KiB  main-client  [emitted]         main-client
+main-client.95999e76c920eb5eca33.hot-update.js.map  123 bytes  main-client  [emitted]         main-client
+                                    main-client.js   3.95 MiB  main-client  [emitted]  [big]  main-client
+                                main-client.js.map   29.9 KiB  main-client  [emitted]         main-client
+Entrypoint main-client [big] = main-client.js main-client.95999e76c920eb5eca33.hot-update.js main-client.js.map main-client.95999e76c920eb5eca33.hot-update.js.map
+2020-03-02 18:27:02.865 +02:00 [INF] [34mi[39m [90mя╜вwdmя╜г[39m: Compiled successfully.
+2020-03-02 18:27:02.938 +02:00 [INF] No type errors found
+2020-03-02 18:27:02.938 +02:00 [INF] Version: typescript 3.5.1
+2020-03-02 18:27:02.939 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/95999e76c920eb5eca33.hot-update.json  
+2020-03-02 18:27:02.939 +02:00 [INF] Time: 771ms
+2020-03-02 18:27:02.949 +02:00 [INF] Request finished in 10.701ms 200 application/json; charset=UTF-8
+2020-03-02 18:27:02.978 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.95999e76c920eb5eca33.hot-update.js  
+2020-03-02 18:27:02.982 +02:00 [INF] Request finished in 3.69ms 200 application/javascript; charset=UTF-8
+2020-03-02 18:27:03.076 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/main-client.95999e76c920eb5eca33.hot-update.js.map  
+2020-03-02 18:27:03.089 +02:00 [INF] Request finished in 14.5463ms 200 application/json; charset=UTF-8
+2020-03-02 18:27:03.124 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:64098/dist/7b2359cfe75ce9da7d7e.hot-update.json  
+2020-03-02 18:27:03.129 +02:00 [INF] Request finished in 5.1226ms 404 

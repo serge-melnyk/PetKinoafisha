@@ -1,12 +1,31 @@
 ﻿import * as React from "react";
 import ad from "@Images/ads/sidebar-ad2.jpg"
+import Slider from "react-slick";
+import { NavLink, Redirect } from "react-router-dom";
+import sonic from "@Images/ads/sonic-poster.jpg";
+import badBoys from "@Images/ads/bad_boys-poster.jpg";
+import jumanji from "@Images/ads/jumanji-poster.jpg";
+
+
 
 export class HomeRotationContainer extends React.Component<{}, {}> {
     private adSrc = ad;
+    private sonicSrc = sonic;
+    private badGuysSrc = badBoys;
+    private jumanjiSrc = jumanji;
+
     constructor(props) {
         super(props);
     }
     render() {
+        var settings = {
+            dots: true,
+            infinite: true,
+            speed: 500,
+            slidesToShow: 3,
+            slidesToScroll: 1
+        };
+
         return <div className="announcements">
             <div className="rounded">
                 <div className="h2"><div className="white-bg"><h1>Фильмы</h1><span className="white-bg orang">сегодня</span>в<span className="select" id="citiestop">
@@ -31,15 +50,31 @@ export class HomeRotationContainer extends React.Component<{}, {}> {
                 </div>
                 </div>
                 <div className="gallery">
-                    <ul className="slick-initialized slick-slider">
-                        <div className="slick-list draggable">
-                            <div className="slick-track">
-                                <li className="slick-slide slick-current">
-
-                                </li>
+                    <Slider {...settings}>
+                        <div>
+                            <div className="wrap">
+                                <div className="poster">
+                                    <NavLink exact to={'/example'} activeClassName="active"><img className="" src={this.jumanjiSrc} /></NavLink>
+                                </div>
                             </div>
                         </div>
-                    </ul>
+                        <div>
+                            <h3>2</h3>
+                        </div>
+                        <div>
+                            <h3>3</h3>
+                        </div>
+                        <div>
+                            <h3>4</h3>
+                        </div>
+                        <div>
+                            <h3>5</h3>
+                        </div>
+                        <div>
+                            <h3>6</h3>
+                        </div>
+                    </Slider>
+
                 </div>
             </div>
         </div>;

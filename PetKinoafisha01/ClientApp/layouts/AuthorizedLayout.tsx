@@ -3,6 +3,8 @@ import * as React from "react";
 import "@Styles/authorizedLayout.scss";
 import { ToastContainer } from "react-toastify";
 import Footer from "@Components/shared/Footer";
+import "slick-carousel/slick/slick.scss";
+import "slick-carousel/slick/slick-theme.scss";
 
 interface IProps {
     children?: React.ReactNode;

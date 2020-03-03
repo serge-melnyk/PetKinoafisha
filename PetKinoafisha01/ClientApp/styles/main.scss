@@ -167,6 +167,10 @@ label {
             /*float: left;*/
             padding-top: 11px;
 
+            .slick-list {
+                margin: 0 10px 0 10px;
+            }
+
             .slick-prev {
                 &:before {
                     content: none;

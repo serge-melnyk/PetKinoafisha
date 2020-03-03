@@ -158,6 +158,111 @@ label {
             font-family: Trebuchet MS, Arial;
             margin-bottom: 5px;
         }
+
+        .gallery {
+            height: 295px;
+            width: 620px !important;
+            margin: 11px 0 14px 15px;
+            overflow: hidden;
+            /*float: left;*/
+            padding-top: 11px;
+
+            .slick-prev {
+                &:before {
+                    content: none;
+                }
+
+                display: block;
+                width: 18px;
+                height: 38px;
+                position: absolute;
+                top: 50%;
+                left: 0%;
+                overflow: hidden;
+                margin: -50px 0 0 -2px;
+                z-index:10;
+                background: url('../images/slidernav.png') 0 0 no-repeat;
+            }
+
+            .slick-next {
+                &:before {
+                    content: none;
+                }
+
+                font-family: none;
+                display: block;
+                width: 16px;
+                height: 38px;
+                position: absolute;
+                top: 50%;
+                left: 99%;
+                overflow: hidden;
+                margin: -50px 0 0 -9px;
+                background: url('../images/slidernav.png') 100% 0 no-repeat;
+            }
+        }
+
+        .poster {
+            &:hover {
+                .info-film, .deco {
+                    display: block;
+                }
+            }
+
+            img {
+                border: #e0e0e0 2px solid;
+                color: transparent;
+                background: #fff;
+            }
+
+            .deco {
+                display: none;
+                position: absolute;
+                top: 0;
+                bottom: 2px;
+                width: 170px;
+                background: url('../images/posterdecor.png');
+            }
+
+            .info-film {
+                display: none;
+                position: relative;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                top: -70px;
+                padding: 0 5px 25px 11px;
+                /*color: red;*/
+                .text-wrapper {
+                    display: block;
+                    width: 159px;
+                    max-height: 45px;
+                    overflow: hidden;
+                    overflow-wrap: break-word;
+                }
+            }
+        }
+
+        .rating {
+            font-size: 13px;
+            color: #787878;
+            margin-bottom: 4px;
+            position: relative;
+            padding: 1px 0 0 1px;
+
+            .star {
+                padding-left: 17px;
+                padding-top: 2px;
+                padding-bottom: 2px;
+                color: #000;
+                background: url('../images/star.png') no-repeat left center;
+            }
+        }
+
+        .wrap {
+            width: 175px;
+            margin: 0 auto;
+        }
     }
 
     .white-bg {
@@ -176,8 +281,65 @@ label {
             color: #e04b00;
         }
     }
+
+    .navi {
+        position: static;
+        width: auto;
+        height: auto;
+        background: none transparent;
+        top: 13px;
+        left: 50%;
+        margin-left: -52px;
+
+        .prev, .next {
+            width: 34px;
+            height: 280px;
+            left: 0;
+            top: 37px;
+            background: none transparent;
+        }
+
+        .prev {
+            i {
+                display: block;
+                width: 18px;
+                height: 38px;
+                position: absolute;
+                top: 50%;
+                left: 2%;
+                overflow: hidden;
+                margin: -50px 0 0 -9px;
+                background: url('../images/slidernav.png') 0 0 no-repeat;
+            }
+        }
+
+        .next {
+            i {
+                display: block;
+                width: 18px;
+                height: 38px;
+                position: absolute;
+                top: 50%;
+                left: 97%;
+                overflow: hidden;
+                margin: -50px 0 0 -9px;
+                background: url('../images/slidernav.png') 100% 0 no-repeat;
+            }
+        }
+    }
 }
 
 .white-bg {
     display: inline;
+}
+
+.poster {
+    .poster-img {
+        display: block;
+        width: 170px;
+        height: 226px;
+        background-color: #fff;
+        transition: all 0.3s ease;
+        opacity: 1;
+    }
 }

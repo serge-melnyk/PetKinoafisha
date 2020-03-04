@@ -218,6 +218,14 @@ label {
             &:hover {
                 .info-film, .deco {
                     display: block;
+                    z-index: 100;
+                }
+
+                .buy {
+                    background-color:orange;
+                    z-index:1000;
+                    display: block;
+                    position: fixed;
                 }
             }
 
@@ -274,6 +282,27 @@ label {
         .wrap {
             width: 175px;
             margin: 0 auto;
+
+            .buy {
+                display: block;
+                margin: 0 auto -7px auto;
+                clear: both;
+                width: 129px;
+                height: 30px;
+                line-height: 28px;
+                text-decoration: none;
+                font-size: 13px;
+                color: #e04b00;
+                font-weight: bold;
+                border: 1px solid #bebebe;
+                border-radius: 4px;
+                overflow: hidden;
+                box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5);
+                text-align: center;
+                background: #fff;
+                position: relative;
+                top: -18px;
+            }
         }
     }
 

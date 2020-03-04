@@ -6,25 +6,36 @@ import sonic from "@Images/ads/sonic-poster.jpg";
 import badBoys from "@Images/ads/bad_boys-poster.jpg";
 import jumanji from "@Images/ads/jumanji-poster.jpg";
 
+interface IProps {
+}
 
+interface IState {
+	hasMounted?: boolean;
+}
 
-export class HomeRotationContainer extends React.Component<{}, {}> {
+export class HomeRotationContainer extends React.Component<IProps, IState> {
 	private adSrc = ad;
 	private sonicSrc = sonic;
 	private badGuysSrc = badBoys;
 	private jumanjiSrc = jumanji;
+	private displayState = 'none';
+
 
 	constructor(props) {
 		super(props);
+		this.state = { hasMounted: false };
 	}
 
-	state = {
-		display: true,
-		width: 600
-	};
 
 
-	render() {
+	componentDidMount() {
+		this.displayState = 'block';
+		this.setState({ hasMounted: true });
+	}
+
+
+
+	content() {
 		var settings = {
 			//dots: true,
 			//arrows: true,
@@ -33,8 +44,7 @@ export class HomeRotationContainer extends React.Component<{}, {}> {
 			slidesToShow: 3,
 			slidesToScroll: 1
 		};
-
-		return <div className="announcements">
+		return <div className="announcements" style={{ display: this.displayState }}>
 			<div className="rounded">
 				<div className="h2"><div className="white-bg"><h1>Фильмы</h1><span className="white-bg orang">сегодня</span>в<span className="select" id="citiestop">
 					<span className="select-rounded">
@@ -73,10 +83,13 @@ export class HomeRotationContainer extends React.Component<{}, {}> {
 											<span className="ganre">приключения, фэнтези</span>
 										</div>
 										<div className="rating">
-												Рейтинг <span className="star">8,7</span>/10
-										</div> 
+											Рейтинг <span className="star">8,7</span>/10
+										</div>
 									</div>
 								</div>
+								<NavLink exact to={'/example'} className="buy">
+									Buy tickets
+								</NavLink>
 							</div>
 						</div>
 						<div>
@@ -138,5 +151,20 @@ export class HomeRotationContainer extends React.Component<{}, {}> {
 				</div>*/}
 			</div>
 		</div>;
+	}
+
+
+
+
+	render() {
+		
+
+		
+		return <div>
+
+			{this.state.hasMounted && this.content()
+
+			}
+			</div>
 	}
 }

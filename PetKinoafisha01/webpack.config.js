@@ -88,7 +88,18 @@ module.exports = (env) => {
                         test: /\.(gif|png|jpe?g|svg)$/i,
                         use: ['url-loader']
                     },
-                    
+                    {
+                        test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+                        use: [
+                            {
+                                loader: 'file-loader',
+                                options: {
+                                    name: '[name].[ext]',
+                                    outputPath: 'fonts/'
+                                }
+                            }
+                        ]
+                    }
                 ]
             },
             plugins: [
@@ -149,7 +160,19 @@ module.exports = (env) => {
         module: {
             rules: [
                 { test: /\.css$/, use: isDevBuild ? ['style-loader', 'css-loader'] : [MiniCssExtractPlugin.loader, 'css-loader'] },
-                { test: /\.(scss|sass)$/, use: isDevBuild ? ['style-loader', 'css-loader', 'sass-loader'] : [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'] }
+                { test: /\.(scss|sass)$/, use: isDevBuild ? ['style-loader', 'css-loader', 'sass-loader'] : [MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'] },
+                {
+                    test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
+                    use: [
+                        {
+                            loader: 'file-loader',
+                            options: {
+                                name: '[name].[ext]',
+                                outputPath: 'fonts/'
+                            }
+                        }
+                    ]
+                }
             ]
         },
         output: { path: path.join(__dirname, clientBundleOutputDir) },

@@ -90,6 +90,13 @@ export class HomeRotationContainer extends React.Component<IProps, IState> {
 								<NavLink exact to={'/example'} className="buy">
 									Buy tickets
 								</NavLink>
+								<div className="name-films">
+									<div className="name-films-holder">
+										<NavLink exact to={'/example'} className="">
+											<b>Черкассы</b>
+										</NavLink>
+									</div>
+								</div>
 							</div>
 						</div>
 						<div>

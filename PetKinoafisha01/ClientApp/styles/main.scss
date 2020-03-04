@@ -218,14 +218,7 @@ label {
             &:hover {
                 .info-film, .deco {
                     display: block;
-                    z-index: 100;
-                }
-
-                .buy {
-                    background-color:orange;
-                    z-index:1000;
-                    display: block;
-                    position: fixed;
+                    /*z-index: 100;*/
                 }
             }
 
@@ -250,8 +243,9 @@ label {
                 bottom: 0;
                 left: 0;
                 right: 0;
-                top: -70px;
-                padding: 0 5px 25px 11px;
+                top: -85px;
+                padding: 0 5px 0 11px;
+                height: 0px;
                 /*color: red;*/
                 .text-wrapper {
                     display: block;
@@ -302,6 +296,25 @@ label {
                 background: #fff;
                 position: relative;
                 top: -18px;
+                z-index: 1000 !important;
+            }
+        }
+
+        .name-films {
+            margin-bottom: 21px;
+
+            .name-films-holder {
+                display: block;
+                max-height: 45px;
+                overflow: hidden;
+                padding: 0 0 2px 0;
+                overflow-wrap: break-word;
+                text-align: center;
+
+                a {
+                    TEXT-DECORATION: none;
+                    color: #1344b0;
+                }
             }
         }
     }
